@@ -1,0 +1,7 @@
+﻿  Cleaning GladiatorEditor and UnrealHeaderTool binaries...
+  Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal_Project\Gladiator\Gladiators).
+  Creating makefile for GladiatorEditor (no existing makefile)
+  Parsing headers for GladiatorEditor
+    Running UnrealHeaderTool "E:\Unreal_Project\Gladiator\Gladiators\Gladiator\Gladiator.uproject" "E:\Unreal_Project\Gladiator\Gladiators\Gladiator\Intermediate\Build\Win64\GladiatorEditor\Development\GladiatorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Source/Gladiator/Player_Controller.h(14): error : Extra ';' before 'public'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(49,5): error MSB3073: The command ""C:\Program Files\Epic Games\UE_4.23\Engine\Build\BatchFiles\Rebuild.bat" GladiatorEditor Win64 Development -Project="E:\Unreal_Project\Gladiator\Gladiators\Gladiator\Gladiator.uproject" -WaitMutex -FromMsBuild" exited with code -1.
