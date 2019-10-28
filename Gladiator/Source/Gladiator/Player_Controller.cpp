@@ -74,9 +74,22 @@ void APlayer_Controller::MoveForward(float speedValue)
 }
 
 void APlayer_Controller::MoveRight(float speedValue)
-{
-	FVector Direction = FRotationMatrix(Controller->GetControlRotation()).GetScaledAxis(EAxis::Y);
-	AddMovementInput(Direction, speedValue);
+{	
+	// only moves right		// Makes room for strafe left and right animations
+	if (speedValue > .1)
+	{
+		// Find the direction we are moving in
+		FVector Direction = FRotationMatrix(Controller->GetControlRotation()).GetScaledAxis(EAxis::Y);
+		// Move
+		AddMovementInput(Direction, speedValue);
+	}
+	else if (speedValue < .1)
+	{
+		// Direction we are moving in
+		FVector Direction = FRotationMatrix(Controller->GetControlRotation()).GetScaledAxis(EAxis::Y);
+		// Move
+		AddMovementInput(Direction, speedValue);
+	}
 }
 
 // Condition that we are jumping
@@ -84,6 +97,7 @@ void APlayer_Controller::StartJump()
 {
 	bPressedJump = true;
 }
+
 // Condition to not longer jump
 void APlayer_Controller::StopJump()
 {

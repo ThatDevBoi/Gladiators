@@ -44,5 +44,4 @@ public:
 	// Camera Variable to add to player capsule
 	UPROPERTY(VisibleAnywhere)
 		UCameraComponent* PlayerCameraComponent;
-
 };
