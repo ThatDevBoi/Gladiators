@@ -17,54 +17,22 @@ void EmptyLinkFunctionForGeneratedCodePlayer_Controller() {}
 	GLADIATOR_API UClass* Z_Construct_UClass_APlayer_Controller();
 	ENGINE_API UClass* Z_Construct_UClass_ACharacter();
 	UPackage* Z_Construct_UPackage__Script_Gladiator();
-	GLADIATOR_API UFunction* Z_Construct_UFunction_APlayer_Controller_MoveForward();
 	GLADIATOR_API UFunction* Z_Construct_UFunction_APlayer_Controller_MoveRight();
 	GLADIATOR_API UFunction* Z_Construct_UFunction_APlayer_Controller_StartJump();
 	GLADIATOR_API UFunction* Z_Construct_UFunction_APlayer_Controller_StopJump();
+	GLADIATOR_API UFunction* Z_Construct_UFunction_APlayer_Controller_WalkForward();
 	ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
 // End Cross Module References
 	void APlayer_Controller::StaticRegisterNativesAPlayer_Controller()
 	{
 		UClass* Class = APlayer_Controller::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
-			{ "MoveForward", &APlayer_Controller::execMoveForward },
 			{ "MoveRight", &APlayer_Controller::execMoveRight },
 			{ "StartJump", &APlayer_Controller::execStartJump },
 			{ "StopJump", &APlayer_Controller::execStopJump },
+			{ "WalkForward", &APlayer_Controller::execWalkForward },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, ARRAY_COUNT(Funcs));
-	}
-	struct Z_Construct_UFunction_APlayer_Controller_MoveForward_Statics
-	{
-		struct Player_Controller_eventMoveForward_Parms
-		{
-			float speed;
-		};
-		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_speed;
-		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
-#if WITH_METADATA
-		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
-#endif
-		static const UE4CodeGen_Private::FFunctionParams FuncParams;
-	};
-	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UFunction_APlayer_Controller_MoveForward_Statics::NewProp_speed = { "speed", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(Player_Controller_eventMoveForward_Parms, speed), METADATA_PARAMS(nullptr, 0) };
-	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_APlayer_Controller_MoveForward_Statics::PropPointers[] = {
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_APlayer_Controller_MoveForward_Statics::NewProp_speed,
-	};
-#if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_APlayer_Controller_MoveForward_Statics::Function_MetaDataParams[] = {
-		{ "ModuleRelativePath", "Player_Controller.h" },
-	};
-#endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_APlayer_Controller_MoveForward_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_APlayer_Controller, nullptr, "MoveForward", nullptr, nullptr, sizeof(Player_Controller_eventMoveForward_Parms), Z_Construct_UFunction_APlayer_Controller_MoveForward_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_APlayer_Controller_MoveForward_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_APlayer_Controller_MoveForward_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_APlayer_Controller_MoveForward_Statics::Function_MetaDataParams)) };
-	UFunction* Z_Construct_UFunction_APlayer_Controller_MoveForward()
-	{
-		static UFunction* ReturnFunction = nullptr;
-		if (!ReturnFunction)
-		{
-			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_APlayer_Controller_MoveForward_Statics::FuncParams);
-		}
-		return ReturnFunction;
 	}
 	struct Z_Construct_UFunction_APlayer_Controller_MoveRight_Statics
 	{
@@ -146,6 +114,38 @@ void EmptyLinkFunctionForGeneratedCodePlayer_Controller() {}
 		}
 		return ReturnFunction;
 	}
+	struct Z_Construct_UFunction_APlayer_Controller_WalkForward_Statics
+	{
+		struct Player_Controller_eventWalkForward_Parms
+		{
+			float speed;
+		};
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_speed;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UFunction_APlayer_Controller_WalkForward_Statics::NewProp_speed = { "speed", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(Player_Controller_eventWalkForward_Parms, speed), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_APlayer_Controller_WalkForward_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_APlayer_Controller_WalkForward_Statics::NewProp_speed,
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_APlayer_Controller_WalkForward_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "Player_Controller.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_APlayer_Controller_WalkForward_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_APlayer_Controller, nullptr, "WalkForward", nullptr, nullptr, sizeof(Player_Controller_eventWalkForward_Parms), Z_Construct_UFunction_APlayer_Controller_WalkForward_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_APlayer_Controller_WalkForward_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_APlayer_Controller_WalkForward_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_APlayer_Controller_WalkForward_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_APlayer_Controller_WalkForward()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_APlayer_Controller_WalkForward_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
 	UClass* Z_Construct_UClass_APlayer_Controller_NoRegister()
 	{
 		return APlayer_Controller::StaticClass();
@@ -157,6 +157,14 @@ void EmptyLinkFunctionForGeneratedCodePlayer_Controller() {}
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_accelerationSpeed_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_accelerationSpeed;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_defaultSpeed_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_defaultSpeed;
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_PlayerCameraComponent_MetaData[];
 #endif
@@ -170,10 +178,10 @@ void EmptyLinkFunctionForGeneratedCodePlayer_Controller() {}
 		(UObject* (*)())Z_Construct_UPackage__Script_Gladiator,
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_APlayer_Controller_Statics::FuncInfo[] = {
-		{ &Z_Construct_UFunction_APlayer_Controller_MoveForward, "MoveForward" }, // 3411356337
 		{ &Z_Construct_UFunction_APlayer_Controller_MoveRight, "MoveRight" }, // 758731804
 		{ &Z_Construct_UFunction_APlayer_Controller_StartJump, "StartJump" }, // 2037996913
 		{ &Z_Construct_UFunction_APlayer_Controller_StopJump, "StopJump" }, // 3079512444
+		{ &Z_Construct_UFunction_APlayer_Controller_WalkForward, "WalkForward" }, // 2867271113
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APlayer_Controller_Statics::Class_MetaDataParams[] = {
@@ -182,6 +190,22 @@ void EmptyLinkFunctionForGeneratedCodePlayer_Controller() {}
 		{ "ModuleRelativePath", "Player_Controller.h" },
 	};
 #endif
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APlayer_Controller_Statics::NewProp_accelerationSpeed_MetaData[] = {
+		{ "Category", "Custom" },
+		{ "Comment", "// Value used to run\n" },
+		{ "ModuleRelativePath", "Player_Controller.h" },
+		{ "ToolTip", "Value used to run" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_APlayer_Controller_Statics::NewProp_accelerationSpeed = { "accelerationSpeed", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APlayer_Controller, accelerationSpeed), METADATA_PARAMS(Z_Construct_UClass_APlayer_Controller_Statics::NewProp_accelerationSpeed_MetaData, ARRAY_COUNT(Z_Construct_UClass_APlayer_Controller_Statics::NewProp_accelerationSpeed_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APlayer_Controller_Statics::NewProp_defaultSpeed_MetaData[] = {
+		{ "Category", "Custom" },
+		{ "ModuleRelativePath", "Player_Controller.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_APlayer_Controller_Statics::NewProp_defaultSpeed = { "defaultSpeed", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APlayer_Controller, defaultSpeed), METADATA_PARAMS(Z_Construct_UClass_APlayer_Controller_Statics::NewProp_defaultSpeed_MetaData, ARRAY_COUNT(Z_Construct_UClass_APlayer_Controller_Statics::NewProp_defaultSpeed_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APlayer_Controller_Statics::NewProp_PlayerCameraComponent_MetaData[] = {
 		{ "Category", "Player_Controller" },
@@ -193,6 +217,8 @@ void EmptyLinkFunctionForGeneratedCodePlayer_Controller() {}
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APlayer_Controller_Statics::NewProp_PlayerCameraComponent = { "PlayerCameraComponent", nullptr, (EPropertyFlags)0x00100000000a0009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APlayer_Controller, PlayerCameraComponent), Z_Construct_UClass_UCameraComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_APlayer_Controller_Statics::NewProp_PlayerCameraComponent_MetaData, ARRAY_COUNT(Z_Construct_UClass_APlayer_Controller_Statics::NewProp_PlayerCameraComponent_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_APlayer_Controller_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayer_Controller_Statics::NewProp_accelerationSpeed,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayer_Controller_Statics::NewProp_defaultSpeed,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayer_Controller_Statics::NewProp_PlayerCameraComponent,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_APlayer_Controller_Statics::StaticCppClassTypeInfo = {
@@ -222,7 +248,7 @@ void EmptyLinkFunctionForGeneratedCodePlayer_Controller() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(APlayer_Controller, 2074144983);
+	IMPLEMENT_CLASS(APlayer_Controller, 2449898720);
 	template<> GLADIATOR_API UClass* StaticClass<APlayer_Controller>()
 	{
 		return APlayer_Controller::StaticClass();

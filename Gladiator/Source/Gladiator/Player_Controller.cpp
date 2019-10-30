@@ -39,18 +39,16 @@ void APlayer_Controller::BeginPlay()
 void APlayer_Controller::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-
 }
 
 // Called to bind functionality to input
 void APlayer_Controller::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
-
 	// Setting up input binds for w,a,s,d movement
 	// Move forward and backwards input	
 	//(Inputs are found in project settings and inputs)
-	PlayerInputComponent->BindAxis("MoveForward", this, & APlayer_Controller::MoveForward);
+	PlayerInputComponent->BindAxis("MoveForward", this, & APlayer_Controller::WalkForward);
 	// Move Left and right input
 	PlayerInputComponent->BindAxis("MoveRight", this, & APlayer_Controller::MoveRight);
 
@@ -67,14 +65,18 @@ void APlayer_Controller::SetupPlayerInputComponent(UInputComponent* PlayerInputC
 	PlayerInputComponent->BindAction("Jump", IE_Released, this, & APlayer_Controller::StopJump);
 }
 
-void APlayer_Controller::MoveForward(float speedValue)
+#pragma region Im Moving
+void APlayer_Controller::WalkForward(float speedValue)
 {
+	defaultSpeed = speedValue;
+	// Casual Walking
 	FVector Direction = FRotationMatrix(Controller->GetControlRotation()).GetScaledAxis(EAxis::X);
-	AddMovementInput(Direction, speedValue);
+	AddMovementInput(Direction, speedValue);	// Speed value goes betwen 1 and -1 which is in the input settings of the project
 }
 
 void APlayer_Controller::MoveRight(float speedValue)
-{	
+{
+	defaultSpeed = speedValue;
 	// only moves right		// Makes room for strafe left and right animations
 	if (speedValue > .1)
 	{
@@ -91,7 +93,9 @@ void APlayer_Controller::MoveRight(float speedValue)
 		AddMovementInput(Direction, speedValue);
 	}
 }
+#pragma endregion
 
+#pragma region I Am Jumping Logic
 // Condition that we are jumping
 void APlayer_Controller::StartJump()
 {
@@ -103,4 +107,6 @@ void APlayer_Controller::StopJump()
 {
 	bPressedJump = false;
 }
+#pragma endregion
+
 

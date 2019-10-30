@@ -27,7 +27,7 @@ public:
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
 	UFUNCTION()
-		void MoveForward(float speed);
+		void WalkForward(float speed);
 
 
 	UFUNCTION()
@@ -44,4 +44,11 @@ public:
 	// Camera Variable to add to player capsule
 	UPROPERTY(VisibleAnywhere)
 		UCameraComponent* PlayerCameraComponent;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Custom)
+		float defaultSpeed = 0;
+
+	// Value used to run
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Custom)
+		float accelerationSpeed = 0;
 };

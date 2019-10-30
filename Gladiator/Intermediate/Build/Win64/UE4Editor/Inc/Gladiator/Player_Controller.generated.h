@@ -40,12 +40,12 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 		P_NATIVE_END; \
 	} \
  \
-	DECLARE_FUNCTION(execMoveForward) \
+	DECLARE_FUNCTION(execWalkForward) \
 	{ \
 		P_GET_PROPERTY(UFloatProperty,Z_Param_speed); \
 		P_FINISH; \
 		P_NATIVE_BEGIN; \
-		P_THIS->MoveForward(Z_Param_speed); \
+		P_THIS->WalkForward(Z_Param_speed); \
 		P_NATIVE_END; \
 	}
 
@@ -77,12 +77,12 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 		P_NATIVE_END; \
 	} \
  \
-	DECLARE_FUNCTION(execMoveForward) \
+	DECLARE_FUNCTION(execWalkForward) \
 	{ \
 		P_GET_PROPERTY(UFloatProperty,Z_Param_speed); \
 		P_FINISH; \
 		P_NATIVE_BEGIN; \
-		P_THIS->MoveForward(Z_Param_speed); \
+		P_THIS->WalkForward(Z_Param_speed); \
 		P_NATIVE_END; \
 	}
 

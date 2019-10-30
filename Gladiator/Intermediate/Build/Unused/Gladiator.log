@@ -1,7 +1,24 @@
-﻿  Cleaning GladiatorEditor and UnrealHeaderTool binaries...
-  Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal_Project\Gladiator\Gladiators).
-  Creating makefile for GladiatorEditor (no existing makefile)
+﻿  Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal_Project\Gladiator\Gladiators).
   Parsing headers for GladiatorEditor
     Running UnrealHeaderTool "E:\Unreal_Project\Gladiator\Gladiators\Gladiator\Gladiator.uproject" "E:\Unreal_Project\Gladiator\Gladiators\Gladiator\Intermediate\Build\Win64\GladiatorEditor\Development\GladiatorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Source/Gladiator/Player_Controller.h(14): error : Extra ';' before 'public'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(49,5): error MSB3073: The command ""C:\Program Files\Epic Games\UE_4.23\Engine\Build\BatchFiles\Rebuild.bat" GladiatorEditor Win64 Development -Project="E:\Unreal_Project\Gladiator\Gladiators\Gladiator\Gladiator.uproject" -WaitMutex -FromMsBuild" exited with code -1.
+  Reflection code generated for GladiatorEditor in 5.7308394 seconds
+  Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 8 processes...
+    [1/4] Player_Controller.cpp
+E:\Unreal_Project\Gladiator\Gladiators\Gladiator\Source\Gladiator\Player_Controller.cpp(66): error C2664: 'FInputActionBinding &UInputComponent::BindAction<APlayer_Controller>(const FName,const EInputEvent,UserClass *,void (__cdecl APlayer_Controller::* )(FKey))': cannot convert argument 4 from 'void (__cdecl APlayer_Controller::* )(float)' to 'void (__cdecl APlayer_Controller::* )(void)'
+            with
+            [
+                UserClass=APlayer_Controller
+            ]
+    E:\Unreal_Project\Gladiator\Gladiators\Gladiator\Source\Gladiator\Player_Controller.cpp(66): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+    C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(797): note: see declaration of 'UInputComponent::BindAction'
+E:\Unreal_Project\Gladiator\Gladiators\Gladiator\Source\Gladiator\Player_Controller.cpp(76): error C2059: syntax error: '}'
+E:\Unreal_Project\Gladiator\Gladiators\Gladiator\Source\Gladiator\Player_Controller.cpp(75): error C2672: 'UInputComponent::BindAction': no matching overloaded function found
+E:\Unreal_Project\Gladiator\Gladiators\Gladiator\Source\Gladiator\Player_Controller.cpp(75): error C2780: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,DelegateType::TUObjectMethodDelegate<UserClass>::FMethodPtr,VarTypes...)': expects 5 arguments - 1 provided
+    C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(821): note: see declaration of 'UInputComponent::BindAction'
+E:\Unreal_Project\Gladiator\Gladiators\Gladiator\Source\Gladiator\Player_Controller.cpp(75): error C2780: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,TBaseDelegate<void,FKey>::TUObjectMethodDelegate<UserClass>::FMethodPtr)': expects 4 arguments - 1 provided
+    C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(809): note: see declaration of 'UInputComponent::BindAction'
+E:\Unreal_Project\Gladiator\Gladiators\Gladiator\Source\Gladiator\Player_Controller.cpp(75): error C2780: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,TBaseDelegate<void>::TUObjectMethodDelegate<UserClass>::FMethodPtr)': expects 4 arguments - 1 provided
+    C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(797): note: see declaration of 'UInputComponent::BindAction'
+E:\Unreal_Project\Gladiator\Gladiators\Gladiator\Source\Gladiator\Player_Controller.cpp(76): error C2143: syntax error: missing ')' before '}'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(44,5): error MSB3075: The command ""C:\Program Files\Epic Games\UE_4.23\Engine\Build\BatchFiles\Build.bat" GladiatorEditor Win64 Development -Project="E:\Unreal_Project\Gladiator\Gladiators\Gladiator\Gladiator.uproject" -WaitMutex -FromMsBuild" exited with code 5. Please verify that you have sufficient rights to run this command.
