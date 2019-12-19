@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Gladiator.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{5D99E9A2-BDAB-44E2-90E0-635A1ACBCF03}</UniqueIdentifier>
+      <UniqueIdentifier>{E22389FE-874D-4510-85C0-5351A23AC5B0}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Gladiator.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{5BE6C655-C533-4D8D-9050-CCFDA50C5F20}</UniqueIdentifier>
+      <UniqueIdentifier>{C90132FF-F891-4FBD-8C95-33386B72121A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,56 +23,59 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Config\Android">
-      <UniqueIdentifier>{4DB11DDF-5C85-41DA-82BA-4A42CE30C21C}</UniqueIdentifier>
+      <UniqueIdentifier>{A10EE737-CC5D-4A9C-85AE-949213AC1DDC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Android\AndroidEngine.ini">
       <Filter>Config\Android</Filter>
     </None>
     <Filter Include="Config\IOS">
-      <UniqueIdentifier>{6E9DA3FD-1FEB-4B67-ACC7-70012640C460}</UniqueIdentifier>
+      <UniqueIdentifier>{E0CE51B5-29E2-4193-8FFE-0881BE7F2394}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\IOS\IOSEngine.ini">
       <Filter>Config\IOS</Filter>
     </None>
     <Filter Include="Config\Linux">
-      <UniqueIdentifier>{9ADC9724-83F6-4F8B-A9F7-6AB9105A7F26}</UniqueIdentifier>
+      <UniqueIdentifier>{191932A5-219E-4D6E-8EFF-2FC52A4D5DC8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Linux\LinuxEngine.ini">
       <Filter>Config\Linux</Filter>
     </None>
     <Filter Include="Config\Mac">
-      <UniqueIdentifier>{880705BA-4C75-4F7A-B344-D58783F34A73}</UniqueIdentifier>
+      <UniqueIdentifier>{A2AF7EBB-F529-46CA-9B5A-2EA6CFF45BD3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Mac\MacEngine.ini">
       <Filter>Config\Mac</Filter>
     </None>
     <Filter Include="Config\PS4">
-      <UniqueIdentifier>{6C519421-FCAC-44B7-9B1D-2FF76D668EC2}</UniqueIdentifier>
+      <UniqueIdentifier>{A44BC8A0-C5BD-494A-AE5E-230B66F9B220}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\PS4\PS4Engine.ini">
       <Filter>Config\PS4</Filter>
     </None>
     <Filter Include="Config\Switch">
-      <UniqueIdentifier>{686751D3-F1D3-4861-9C3F-E1960500722C}</UniqueIdentifier>
+      <UniqueIdentifier>{42A45F22-C743-429E-A38D-B175C38965B3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Switch\SwitchEngine.ini">
       <Filter>Config\Switch</Filter>
     </None>
     <Filter Include="Config\Windows">
-      <UniqueIdentifier>{92314540-102B-4718-8EDD-52A5B7AEA313}</UniqueIdentifier>
+      <UniqueIdentifier>{CB6D33E1-F6D6-4714-9C77-4E9F38F9A650}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Windows\WindowsEngine.ini">
       <Filter>Config\Windows</Filter>
     </None>
     <Filter Include="Config\XboxOne">
-      <UniqueIdentifier>{06755602-5CFB-43FB-8B38-6183B4608C58}</UniqueIdentifier>
+      <UniqueIdentifier>{D04942E8-CED7-4EA3-AB6C-ED4AE85A5745}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
       <Filter>Config\XboxOne</Filter>
     </None>
     <Filter Include="Source\Gladiator">
-      <UniqueIdentifier>{29613688-BEC6-4C66-9211-B60262A1E121}</UniqueIdentifier>
+      <UniqueIdentifier>{D09496D3-9AD0-4037-8E4B-2A446BC7938B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Gladiator\Gladiator.Build.cs">
       <Filter>Source\Gladiator</Filter>
@@ -89,15 +92,17 @@
     <ClInclude Include="..\..\Source\Gladiator\GladiatorGameModeBase.h">
       <Filter>Source\Gladiator</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\Gladiator\Player_Controller.h">
+    <ClCompile Include="..\..\Source\Gladiator\MutantSpawner.cpp">
+      <Filter>Source\Gladiator</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gladiator\MutantSpawner.h">
       <Filter>Source\Gladiator</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="..\..\Source\Gladiator\Player_Controller.cpp">
       <Filter>Source\Gladiator</Filter>
     </ClCompile>
+    <ClInclude Include="..\..\Source\Gladiator\Player_Controller.h">
+      <Filter>Source\Gladiator</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
