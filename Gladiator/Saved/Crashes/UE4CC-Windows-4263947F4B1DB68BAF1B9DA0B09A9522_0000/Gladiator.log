@@ -1,0 +1,1169 @@
+﻿Log file open, 12/23/19 13:59:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Gladiator
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.085472
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1050
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=David.p.b -epicuserid=66ab0eb387d24985aab87c2368d90e3c -epiclocale=en-GB
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Engine.ini]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Engine.ini]
+[2019.12.23-13.59.34:831][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Engine.ini]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Engine.ini]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.23-13.59.34:831][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Engine.ini]
+[2019.12.23-13.59.34:831][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Engine.ini]
+[2019.12.23-13.59.34:835][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.23-13.59.34:835][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.23-13.59.34:836][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.23-13.59.34:836][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.23-13.59.34:836][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.23-13.59.34:838][  0]LogHAL: Display: Platform has ~ 16 GB [17131786240 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.23-13.59.34:838][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.23-13.59.34:838][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.23-13.59.34:838][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.23-13.59.34:839][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Engine.ini]
+[2019.12.23-13.59.34:839][  0]LogInit: Computer: DESKTOP-GDVI54N
+[2019.12.23-13.59.34:839][  0]LogInit: User: daveb
+[2019.12.23-13.59.34:839][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.23-13.59.34:839][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.23-13.59.34:840][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.12.23-13.59.34:840][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.23-13.59.34:840][  0]LogMemory: Process Physical Memory: 101.73 MB used, 101.73 MB peak
+[2019.12.23-13.59.34:840][  0]LogMemory: Process Virtual Memory: 99.04 MB used, 99.04 MB peak
+[2019.12.23-13.59.34:840][  0]LogMemory: Physical Memory: 6133.70 MB used,  10204.45 MB free, 16338.14 MB total
+[2019.12.23-13.59.34:840][  0]LogMemory: Virtual Memory: 4681.22 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.12.23-13.59.34:842][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.23-13.59.34:869][  0]LogInit: Using OS detected language (en-GB).
+[2019.12.23-13.59.34:869][  0]LogInit: Using OS detected locale (en-GB).
+[2019.12.23-13.59.34:871][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.12.23-13.59.35:025][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.23-13.59.35:060][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.23-13.59.35:060][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.23-13.59.35:300][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.23-13.59.35:300][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.23-13.59.35:347][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.12.23-13.59.35:347][  0]LogD3D11RHI:       1977/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.12.23-13.59.35:350][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.23-13.59.35:350][  0]LogD3D11RHI:       0/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.23-13.59.35:350][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.23-13.59.35:356][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.23-13.59.35:356][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.23-13.59.35:356][  0]LogWindows: EnumDisplayDevices:
+[2019.12.23-13.59.35:356][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2019.12.23-13.59.35:356][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
+[2019.12.23-13.59.35:356][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.12.23-13.59.35:357][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.12.23-13.59.35:357][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.23-13.59.35:357][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.12.23-13.59.35:357][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2019.12.23-13.59.35:357][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2019.12.23-13.59.35:357][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2019.12.23-13.59.35:390][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.23-13.59.35:400][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.23-13.59.35:798][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.23-13.59.35:805][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.23-13.59.35:813][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.23-13.59.35:820][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.23-13.59.35:828][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.23-13.59.35:835][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.23-13.59.35:843][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.23-13.59.35:850][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.23-13.59.35:854][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.23-13.59.35:879][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.23-13.59.35:879][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.23-13.59.35:879][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.23-13.59.35:879][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.23-13.59.35:879][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.23-13.59.35:879][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.23-13.59.35:879][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.23-13.59.35:879][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.23-13.59.35:879][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.23-13.59.35:879][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.23-13.59.35:879][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.23-13.59.35:879][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.23-13.59.35:879][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.23-13.59.35:879][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.23-13.59.35:879][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.23-13.59.35:879][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.23-13.59.35:879][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.23-13.59.35:879][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.23-13.59.35:881][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.23-13.59.35:906][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.23-13.59.35:906][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.23-13.59.35:918][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.23-13.59.35:918][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.23-13.59.35:924][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.23-13.59.35:931][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.23-13.59.35:937][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.23-13.59.35:944][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.23-13.59.35:964][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.23-13.59.35:964][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.23-13.59.35:964][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.23-13.59.35:973][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.23-13.59.36:024][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Intermediate/Shaders/WorkingDirectory/16504/).
+[2019.12.23-13.59.36:024][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/daveb/AppData/Local/Temp/UnrealShaderWorkingDir/8CED2F2141F375FBBF63D2B4782B4537/'.
+[2019.12.23-13.59.36:027][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.23-13.59.36:027][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.23-13.59.36:027][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.23-13.59.36:524][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.23-13.59.36:572][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/daveb/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.23-13.59.36:572][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/daveb/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.23-13.59.36:572][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Unreal_Project/Gladiator/Gladiators/Gladiator/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.23-13.59.36:572][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.23-13.59.36:572][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Unreal_Project/Gladiator/Gladiators/Gladiator/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.23-13.59.36:572][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.23-13.59.36:581][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.23-13.59.36:581][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.23-13.59.36:581][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.23-13.59.36:582][  0]LogDerivedDataCache: Using Local data cache path C:/Users/daveb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.23-13.59.36:582][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.23-13.59.36:582][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.23-13.59.36:598][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.23-13.59.36:600][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.23-13.59.36:600][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.23-13.59.36:660][  0]LogAssetRegistry: FAssetRegistry took 0.0018 seconds to start up
+[2019.12.23-13.59.36:880][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.23-13.59.37:007][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.23-13.59.37:008][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.23-13.59.37:008][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.23-13.59.37:008][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.23-13.59.37:008][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.23-13.59.37:015][  0]LogNetVersion: Gladiator 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3699715427)
+[2019.12.23-13.59.37:423][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.074409 seconds
+[2019.12.23-13.59.37:429][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.23-13.59.37:429][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.23-13.59.37:429][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.23-13.59.38:281][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.23-13.59.38:284][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.23-13.59.38:338][  0]SourceControl: Source control is disabled
+[2019.12.23-13.59.38:338][  0]SourceControl: Source control is disabled
+[2019.12.23-13.59.38:339][  0]SourceControl: Source control is disabled
+[2019.12.23-13.59.38:340][  0]SourceControl: Source control is disabled
+[2019.12.23-13.59.38:431][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.23-13.59.38:596][  0]LogOcInput: OculusInput pre-init called
+[2019.12.23-13.59.38:604][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.23-13.59.38:604][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.23-13.59.38:658][  0]LogEngine: Initializing Engine...
+[2019.12.23-13.59.38:659][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.23-13.59.38:659][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.23-13.59.38:832][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.23-13.59.38:847][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.23-13.59.38:869][  0]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.23-13.59.38:888][  0]LogInit: FAudioDevice initialized.
+[2019.12.23-13.59.38:889][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.23-13.59.39:014][  0]LogDerivedDataCache: Saved boot cache 0.12s 73MB C:/Users/daveb/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.23-13.59.39:025][  0]LogInit: Texture streaming: Enabled
+[2019.12.23-13.59.39:070][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.23-13.59.39:147][  0]LogInit: Transaction tracking system initialized
+[2019.12.23-13.59.39:179][  0]BlueprintLog: New page: Editor Load
+[2019.12.23-13.59.39:255][  0]LocalizationService: Localization service is disabled
+[2019.12.23-13.59.39:494][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/' took 0.00s
+[2019.12.23-13.59.39:494][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.23-13.59.39:494][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.23-13.59.39:680][  0]SourceControl: Source control is disabled
+[2019.12.23-13.59.39:680][  0]Cmd: MAP LOAD FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Maps/Gladiator.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.23-13.59.39:681][  0]LightingResults: New page: Lighting Build
+[2019.12.23-13.59.39:685][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.23-13.59.39:685][  0]MapCheck: New page: Map Check
+[2019.12.23-13.59.39:685][  0]LightingResults: New page: Lighting Build
+[2019.12.23-13.59.39:708][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.12.23-13.59.40:015][  0]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.23-13.59.40:020][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.23-13.59.40:042][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.12.23-13.59.40:042][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.23-13.59.40:042][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2019.12.23-13.59.40:042][  0]LogFileHelpers: Loading map 'Gladiator' took 0.362
+[2019.12.23-13.59.40:209][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-13.59.40:214][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-13.59.40:220][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-13.59.40:225][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-13.59.40:232][  0]LogCollectionManager: Loaded 0 collections in 0.001753 seconds
+[2019.12.23-13.59.40:237][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Collections/' took 0.00s
+[2019.12.23-13.59.40:237][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Developers/daveb/Collections/' took 0.00s
+[2019.12.23-13.59.40:237][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Collections/' took 0.00s
+[2019.12.23-13.59.40:237][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.12.23-13.59.40:244][  0]LogContentBrowser: Native class hierarchy populated in 0.0063 seconds. Added 2866 classes and 682 folders.
+[2019.12.23-13.59.40:250][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.23-13.59.40:323][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.23-13.59.40:328][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.12.23-13.59.40:337][  0]LogSlate: Took 0.000356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.23-13.59.40:338][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.23-13.59.40:342][  0]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.23-13.59.40:390][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.12.23-13.59.40:461][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.23-13.59.40:461][  0]LogLoad: (Engine Initialization) Total time: 7.76 seconds
+[2019.12.23-13.59.40:461][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.23-13.59.40:522][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.23-13.59.40:545][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.23-13.59.40:573][  1]LogAssetRegistry: Asset discovery search completed in 3.9144 seconds
+[2019.12.23-13.59.40:576][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.12.23-13.59.40:576][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2019.12.23-13.59.47:200][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.23-13.59.47:284][258]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.23-13.59.47:309][258]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-13.59.47:309][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.23-13.59.47:309][258]PIE: New page: PIE session: Gladiator (23 Dec 2019 13:59:47)
+[2019.12.23-13.59.47:310][258]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.23-13.59.47:311][258]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.23-13.59.47:314][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003308s)
+[2019.12.23-13.59.47:315][258]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.23-13.59.47:315][258]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2019.12.23-13.59.47:315][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gladiator.Gladiator to /Game/Maps/UEDPIE_0_Gladiator.Gladiator (0.004379s)
+[2019.12.23-13.59.47:335][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.12.23-13.59.47:351][258]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.23-13.59.47:364][258]LogInit: FAudioDevice initialized.
+[2019.12.23-13.59.47:372][258]LogLoad: Game class is 'BP_GladiatorGameMode_C'
+[2019.12.23-13.59.47:373][258]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gladiator.Gladiator up for play (max tick rate 0) at 2019.12.23-13.59.47
+[2019.12.23-13.59.47:373][258]LogWorld: Bringing up level for play took: 0.000533
+[2019.12.23-13.59.47:374][258]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2019.12.23-13.59.47:379][258]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.12.23-13.59.47:380][258]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Gladiator -0.257
+[2019.12.23-13.59.47:380][258]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-13.59.52:057][815]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] Hit Shield
+[2019.12.23-13.59.52:057][815]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] Hit Shield
+[2019.12.23-13.59.52:065][816]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] Hit Shield
+[2019.12.23-13.59.54:224][ 75]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-13.59.54:224][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-13.59.54:224][ 75]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.23-13.59.54:225][ 75]LogWorld: UWorld::CleanupWorld for Gladiator, bSessionEnded=true, bCleanupResources=true
+[2019.12.23-13.59.54:234][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.23-13.59.54:234][ 75]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-13.59.54:255][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-13.59.54:257][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.12.23-13.59.54:325][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.12.23-13.59.55:460][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.23-13.59.55:595][234]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.23-13.59.55:600][234]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/Player/Player_Character_BP.Player_Character_BP
+[2019.12.23-13.59.55:810][234]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.12.23-13.59.56:485][234]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.23-13.59.56:558][235]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.23-14.00.10:092][795]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.00.10:250][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.12.23-14.00.10:460][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.00.10:535][810]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP04C1996E4B1C41F9E7ACA8BC3191257E.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.00.26:816][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.00.26:895][731]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP410A05B04E5CFE92AC736493BAC90E72.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.01.02:764][841]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.01.02:945][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.12.23-14.01.03:160][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.01.03:232][858]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP6EA103AB41A4DF6366799AA3577F8558.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.01.04:796][ 43]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.23-14.01.04:824][ 43]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.01.04:824][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.23-14.01.04:824][ 43]PIE: New page: PIE session: Gladiator (23 Dec 2019 14:01:04)
+[2019.12.23-14.01.04:824][ 43]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.23-14.01.04:827][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002988s)
+[2019.12.23-14.01.04:828][ 43]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.23-14.01.04:828][ 43]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2019.12.23-14.01.04:828][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gladiator.Gladiator to /Game/Maps/UEDPIE_0_Gladiator.Gladiator (0.003906s)
+[2019.12.23-14.01.04:857][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.12.23-14.01.04:873][ 43]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.23-14.01.04:885][ 43]LogInit: FAudioDevice initialized.
+[2019.12.23-14.01.04:894][ 43]LogLoad: Game class is 'BP_GladiatorGameMode_C'
+[2019.12.23-14.01.04:895][ 43]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gladiator.Gladiator up for play (max tick rate 0) at 2019.12.23-14.01.04
+[2019.12.23-14.01.04:895][ 43]LogWorld: Bringing up level for play took: 0.000518
+[2019.12.23-14.01.04:895][ 43]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.12.23-14.01.04:897][ 43]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Gladiator -0.741
+[2019.12.23-14.01.04:897][ 43]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.01.08:447][467]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] Hit Shield
+[2019.12.23-14.01.08:447][467]LogBlueprintUserMessages: [Player_Character_BP_C_0] 90
+[2019.12.23-14.01.08:456][468]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] Hit Shield
+[2019.12.23-14.01.08:456][468]LogBlueprintUserMessages: [Player_Character_BP_C_0] 80
+[2019.12.23-14.01.13:664][ 93]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] Hit Shield
+[2019.12.23-14.01.14:790][228]LogBlueprintUserMessages: [Game_Manager_2] 0
+[2019.12.23-14.01.16:206][398]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] Hit Shield
+[2019.12.23-14.01.16:248][403]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] Hit Shield
+[2019.12.23-14.01.20:573][922]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 90
+[2019.12.23-14.01.21:165][993]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.01.21:165][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-14.01.21:165][993]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.23-14.01.21:165][993]LogWorld: UWorld::CleanupWorld for Gladiator, bSessionEnded=true, bCleanupResources=true
+[2019.12.23-14.01.21:175][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.23-14.01.21:175][993]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.01.21:207][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-14.01.21:209][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.12.23-14.01.21:272][999]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.12.23-14.01.22:475][112]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.23-14.01.28:813][775]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.23-14.01.28:813][775]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/NPCs/Enemy_Blueprint.Enemy_Blueprint
+[2019.12.23-14.02.06:296][210]BlueprintLog: New page: Compile Enemy_Blueprint
+[2019.12.23-14.02.06:470][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.12.23-14.02.06:673][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/NPCs/Enemy_Blueprint" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/NPCs/Enemy_Blueprint.uasset" SILENT=true
+[2019.12.23-14.02.06:751][223]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Enemy_BlueprintA6A792FB4E6FAC4E596D84B4DCB3387B.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/NPCs/Enemy_Blueprint.uasset'
+[2019.12.23-14.02.07:016][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.23-14.02.07:058][258]BlueprintLog: New page: Compile Enemy_Blueprint
+[2019.12.23-14.02.07:249][258]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.12.23-14.02.07:506][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/NPCs/Enemy_Blueprint" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/NPCs/Enemy_Blueprint.uasset" SILENT=true
+[2019.12.23-14.02.07:569][279]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Enemy_Blueprint7F31253D44C00D3C745819AC0212D06E.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/NPCs/Enemy_Blueprint.uasset'
+[2019.12.23-14.02.07:842][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.23-14.02.55:287][879]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.02.55:440][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.12.23-14.03.04:168][899]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.03.04:360][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.12.23-14.03.04:739][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.03.04:809][936]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP7F58595C47621A7BE5FEF8A6246209C1.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.03.05:935][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.23-14.03.16:718][346]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.03.16:870][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.12.23-14.03.19:679][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.03.19:746][671]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BPC0F4D3814F4AE172E47636A7BB6DE31F.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.03.20:513][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.23-14.03.21:155][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.23-14.03.21:203][843]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.23-14.03.21:235][843]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.03.21:235][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.23-14.03.21:235][843]PIE: New page: PIE session: Gladiator (23 Dec 2019 14:03:21)
+[2019.12.23-14.03.21:236][843]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.23-14.03.21:239][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002979s)
+[2019.12.23-14.03.21:239][843]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.23-14.03.21:239][843]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2019.12.23-14.03.21:240][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gladiator.Gladiator to /Game/Maps/UEDPIE_0_Gladiator.Gladiator (0.003975s)
+[2019.12.23-14.03.21:268][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.12.23-14.03.21:284][843]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.23-14.03.21:297][843]LogInit: FAudioDevice initialized.
+[2019.12.23-14.03.21:303][843]LogLoad: Game class is 'BP_GladiatorGameMode_C'
+[2019.12.23-14.03.21:303][843]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gladiator.Gladiator up for play (max tick rate 0) at 2019.12.23-14.03.21
+[2019.12.23-14.03.21:304][843]LogWorld: Bringing up level for play took: 0.000513
+[2019.12.23-14.03.21:304][843]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.12.23-14.03.21:306][843]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Gladiator -0.332
+[2019.12.23-14.03.21:306][843]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.03.26:023][407]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.23-14.03.29:890][870]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.23-14.03.31:198][ 27]LogBlueprintUserMessages: [Game_Manager_2] 0
+[2019.12.23-14.03.33:640][320]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.23-14.03.33:657][322]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.23-14.03.35:307][520]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.03.35:308][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-14.03.35:308][520]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.23-14.03.35:308][520]LogWorld: UWorld::CleanupWorld for Gladiator, bSessionEnded=true, bCleanupResources=true
+[2019.12.23-14.03.35:318][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.23-14.03.35:318][520]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.03.35:350][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-14.03.35:353][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.12.23-14.03.35:412][525]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.12.23-14.03.36:808][657]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.23-14.03.40:839][134]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.03.40:991][134]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.12.23-14.03.41:164][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.03.41:234][146]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP54B64E154E3138240F286A8CAC1B0E59.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.03.42:207][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.23-14.03.42:840][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.23-14.03.42:924][345]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.23-14.03.42:953][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.03.42:953][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.23-14.03.42:953][345]PIE: New page: PIE session: Gladiator (23 Dec 2019 14:03:42)
+[2019.12.23-14.03.42:953][345]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.23-14.03.42:956][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003071s)
+[2019.12.23-14.03.42:957][345]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.23-14.03.42:957][345]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2019.12.23-14.03.42:957][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gladiator.Gladiator to /Game/Maps/UEDPIE_0_Gladiator.Gladiator (0.003979s)
+[2019.12.23-14.03.42:986][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.12.23-14.03.43:002][345]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.23-14.03.43:014][345]LogInit: FAudioDevice initialized.
+[2019.12.23-14.03.43:020][345]LogLoad: Game class is 'BP_GladiatorGameMode_C'
+[2019.12.23-14.03.43:021][345]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gladiator.Gladiator up for play (max tick rate 0) at 2019.12.23-14.03.43
+[2019.12.23-14.03.43:021][345]LogWorld: Bringing up level for play took: 0.000492
+[2019.12.23-14.03.43:022][345]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.12.23-14.03.43:024][345]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Gladiator -0.614
+[2019.12.23-14.03.43:024][345]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.03.47:790][915]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.23-14.03.49:149][ 78]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.23-14.03.50:532][244]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.23-14.03.52:916][530]LogBlueprintUserMessages: [Game_Manager_2] 0
+[2019.12.23-14.03.56:624][975]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.23-14.03.56:624][975]LogBlueprintUserMessages: [Player_Character_BP_C_0] 90
+[2019.12.23-14.03.57:816][118]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.23-14.03.59:132][276]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.23-14.04.00:491][439]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.23-14.04.01:933][612]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.23-14.04.02:292][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.04.02:292][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-14.04.02:292][655]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.23-14.04.02:292][655]LogWorld: UWorld::CleanupWorld for Gladiator, bSessionEnded=true, bCleanupResources=true
+[2019.12.23-14.04.02:301][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.23-14.04.02:301][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.04.02:330][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-14.04.02:333][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.12.23-14.04.02:397][660]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.12.23-14.04.03:002][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.23-14.04.03:068][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Gladiator" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Maps/Gladiator.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.23-14.04.03:098][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.12.23-14.04.03:248][739]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Gladiator331E664E475FA444EBD8188BF84AFF4F.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Maps/Gladiator.umap'
+[2019.12.23-14.04.03:330][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Gladiator_BuiltData" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Maps/Gladiator_BuiltData.uasset" SILENT=true
+[2019.12.23-14.04.03:516][739]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Gladiator_BuiltDataB98DF75F4379029F7A39D29CE071F811.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Maps/Gladiator_BuiltData.uasset'
+[2019.12.23-14.04.34:917][420]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.04.35:095][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.12.23-14.04.35:330][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.04.35:399][440]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP92A911414EADBB0C7FC59AB7051AE0F2.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.04.49:139][ 66]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.04.49:297][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.12.23-14.04.49:626][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.04.49:697][ 98]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP499F62F54C5AB5E18E7D81BCC53C489A.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.04.52:209][397]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.23-14.04.52:241][397]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.04.52:241][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.23-14.04.52:241][397]PIE: New page: PIE session: Gladiator (23 Dec 2019 14:04:52)
+[2019.12.23-14.04.52:241][397]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.23-14.04.52:244][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002871s)
+[2019.12.23-14.04.52:245][397]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.23-14.04.52:245][397]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2019.12.23-14.04.52:245][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gladiator.Gladiator to /Game/Maps/UEDPIE_0_Gladiator.Gladiator (0.003767s)
+[2019.12.23-14.04.52:273][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.12.23-14.04.52:289][397]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.23-14.04.52:302][397]LogInit: FAudioDevice initialized.
+[2019.12.23-14.04.52:308][397]LogLoad: Game class is 'BP_GladiatorGameMode_C'
+[2019.12.23-14.04.52:309][397]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gladiator.Gladiator up for play (max tick rate 0) at 2019.12.23-14.04.52
+[2019.12.23-14.04.52:309][397]LogWorld: Bringing up level for play took: 0.000502
+[2019.12.23-14.04.52:309][397]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.12.23-14.04.52:312][397]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Gladiator 0.674
+[2019.12.23-14.04.52:312][397]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.04.56:994][955]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.23-14.05.00:369][360]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.23-14.05.01:470][492]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.05.01:470][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-14.05.01:470][492]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.23-14.05.01:470][492]LogWorld: UWorld::CleanupWorld for Gladiator, bSessionEnded=true, bCleanupResources=true
+[2019.12.23-14.05.01:478][492]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.23-14.05.01:478][492]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.05.01:505][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-14.05.01:508][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.12.23-14.05.01:575][498]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.12.23-14.05.02:796][609]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.23-14.06.11:524][ 41]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.23-14.06.18:256][221]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.23-14.06.28:020][381]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.06.28:176][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.12.23-14.06.28:404][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.06.28:486][401]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP7F18A4EA4FBC75ADE7BF20AADAEBD028.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.06.29:250][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.23-14.06.29:943][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.23-14.06.30:009][582]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.23-14.06.30:039][582]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.06.30:039][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.23-14.06.30:039][582]PIE: New page: PIE session: Gladiator (23 Dec 2019 14:06:30)
+[2019.12.23-14.06.30:039][582]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.23-14.06.30:042][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003086s)
+[2019.12.23-14.06.30:043][582]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.23-14.06.30:043][582]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2019.12.23-14.06.30:043][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gladiator.Gladiator to /Game/Maps/UEDPIE_0_Gladiator.Gladiator (0.004040s)
+[2019.12.23-14.06.30:074][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.12.23-14.06.30:090][582]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.23-14.06.30:103][582]LogInit: FAudioDevice initialized.
+[2019.12.23-14.06.30:111][582]LogLoad: Game class is 'BP_GladiatorGameMode_C'
+[2019.12.23-14.06.30:112][582]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gladiator.Gladiator up for play (max tick rate 0) at 2019.12.23-14.06.30
+[2019.12.23-14.06.30:112][582]LogWorld: Bringing up level for play took: 0.000511
+[2019.12.23-14.06.30:113][582]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.12.23-14.06.30:115][582]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Gladiator 0.477
+[2019.12.23-14.06.30:115][582]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.06.36:448][340]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.23-14.06.39:457][701]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.23-14.06.40:006][767]LogBlueprintUserMessages: [Game_Manager_2] 0
+[2019.12.23-14.06.45:299][402]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.06.45:299][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-14.06.45:299][402]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.23-14.06.45:300][402]LogWorld: UWorld::CleanupWorld for Gladiator, bSessionEnded=true, bCleanupResources=true
+[2019.12.23-14.06.45:308][402]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.23-14.06.45:308][402]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.06.45:340][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-14.06.45:342][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.12.23-14.06.45:406][408]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.12.23-14.06.46:722][534]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.23-14.06.50:113][908]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.06.50:267][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.12.23-14.06.50:496][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.06.50:564][928]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BPFBDB36B4489F0D5708BDF0B826406B0B.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.06.50:907][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.23-14.07.22:392][494]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.23-14.08.03:557][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.12.23-14.08.03:562][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP_C' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateEntryNode_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_0.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateNode_2.Walking.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateNode_1.Running.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateNode_0.Idle.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_1.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_2.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_3.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_5.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_4.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateNode_3.SwingSword.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_6.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_7.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_8.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateNode_4.Blocking.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_11.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_13.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_9.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_12.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_10.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_18.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateNode_5.Death.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_15.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_17.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_14.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:BlockingAttacks.K2Node_FunctionEntry_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_16.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_19.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:Walk_To_Run.K2Node_FunctionEntry_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:Attack.K2Node_FunctionEntry_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_27.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_26.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_25.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_24.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_23.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_20.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateNode_7.StrafeLeft.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_22.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_21.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateNode_6.StrafeRight.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:Strafing.K2Node_FunctionEntry_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:Idle_To_Walk.K2Node_FunctionEntry_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_34.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_39.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_43.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_29.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_42.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_28.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_35.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_41.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_37.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_33.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_31.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateNode_8.WalkBack.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_38.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_40.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:PlayerDead.K2Node_FunctionEntry_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_36.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_32.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP:AnimGraph.AnimGraphNode_StateMachine_0.Movement.AnimStateTransitionNode_30.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:563][887]LogMetaData: Removing '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.SKEL_Player_Character_Anim_BP_C' ref from Metadata '/Game/Mesh/PlayerMesh/Anim_BP/Player_Character.PackageMetaData'
+[2019.12.23-14.08.03:830][887]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_Anim_BPC1AC5923452732FC5931429F2DBA5FDA.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.uasset'
+[2019.12.23-14.08.03:992][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.12.23-14.08.04:019][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.12.23-14.08.04:044][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.12.23-14.08.04:059][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.08.04:128][887]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP9DADDB3145E7D91A08D1479888B0CDD3.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.08.05:707][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Gladiator" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Maps/Gladiator.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.23-14.08.05:739][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.12.23-14.08.05:908][ 70]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Gladiator2B31E7464B09C30C2ADD4685C57AEF2C.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Maps/Gladiator.umap'
+[2019.12.23-14.08.05:966][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Gladiator_BuiltData" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Maps/Gladiator_BuiltData.uasset" SILENT=true
+[2019.12.23-14.08.06:428][ 70]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Gladiator_BuiltData20940B2E43795A77B184E988FABD0A9F.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Maps/Gladiator_BuiltData.uasset'
+[2019.12.23-14.08.24:604][ 66]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.08.24:613][ 66]LogBlueprint: Warning: [Compiler Player_Character_BP] 'Player Character Anim BP' does not inherit from 'Pawn' ( Cast To Player_Character_Anim_BP  would always fail).
+[2019.12.23-14.08.24:761][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.12.23-14.08.24:966][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.08.25:037][ 82]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP10FF77004243445ED426D982DCC28EC3.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.08.35:194][250]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.08.35:202][250]LogBlueprint: Warning: [Compiler Player_Character_BP] 'Player Character Anim BP' does not inherit from 'Character' ( Cast To Player_Character_Anim_BP  would always fail).
+[2019.12.23-14.08.35:353][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.12.23-14.08.35:680][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.08.35:756][281]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BPE17A7C3A447A1B15E901EF833A321EAB.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.08.44:830][335]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.08.44:838][335]LogBlueprint: Warning: [Compiler Player_Character_BP] 'Player Character Anim BP' does not inherit from 'Actor' ( Cast To Player_Character_Anim_BP  would always fail).
+[2019.12.23-14.08.44:992][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.12.23-14.08.45:319][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.08.45:389][366]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP14189BA84E22A019A7E620952A965BA6.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.09.01:092][210]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.09.01:100][210]LogBlueprint: Warning: [Compiler Player_Character_BP] 'Player Character Anim BP' does not inherit from 'Actor' ( Cast To Player_Character_Anim_BP  would always fail).
+[2019.12.23-14.09.01:256][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.12.23-14.09.01:593][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.09.01:665][242]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP45C6813242AD86CB73517AB37DFB9683.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.09.12:240][484]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.12.23-14.09.19:941][385]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.09.19:953][385]LogBlueprint: Error: [Compiler Player_Character_BP] The type of  Object  is undetermined.  Connect something to  Cast To Player_Character_Anim_BP  to imply a specific type.
+[2019.12.23-14.09.19:953][385]LogBlueprint: Error: [Compiler Player_Character_BP] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2019.12.23-14.09.20:112][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.12.23-14.09.20:323][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.09.20:395][402]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BPABE6E9DF4323A21B9441B382032E7E89.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.09.25:788][ 25]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.09.25:949][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.12.23-14.09.26:296][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.09.26:368][ 58]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BPF64A71E1455BD92E2F79BCA79BFE5A71.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.10.03:245][375]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.10.03:407][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.12.23-14.10.03:706][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.10.03:780][402]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP0C6E688E49348EB8BE3997879DD50638.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.10.08:643][972]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.10.08:806][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.12.23-14.10.08:980][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.10.09:054][985]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP1A5C73B34C889B38371A7D95DC4ED583.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.10.11:095][226]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.23-14.10.11:127][226]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.10.11:127][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.23-14.10.11:127][226]PIE: New page: PIE session: Gladiator (23 Dec 2019 14:10:11)
+[2019.12.23-14.10.11:127][226]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.23-14.10.11:130][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003078s)
+[2019.12.23-14.10.11:131][226]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.23-14.10.11:131][226]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2019.12.23-14.10.11:131][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gladiator.Gladiator to /Game/Maps/UEDPIE_0_Gladiator.Gladiator (0.004085s)
+[2019.12.23-14.10.11:161][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.12.23-14.10.11:177][226]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.23-14.10.11:190][226]LogInit: FAudioDevice initialized.
+[2019.12.23-14.10.11:198][226]LogLoad: Game class is 'BP_GladiatorGameMode_C'
+[2019.12.23-14.10.11:198][226]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gladiator.Gladiator up for play (max tick rate 0) at 2019.12.23-14.10.11
+[2019.12.23-14.10.11:199][226]LogWorld: Bringing up level for play took: 0.000518
+[2019.12.23-14.10.11:199][226]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.12.23-14.10.11:201][226]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Gladiator -0.437
+[2019.12.23-14.10.11:201][226]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.10.27:538][170]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.23-14.10.29:263][377]LogBlueprintUserMessages: [Player_Character_BP_C_0] 85
+[2019.12.23-14.10.29:263][377]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.23-14.10.29:855][448]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.10.29:856][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-14.10.29:856][448]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.23-14.10.29:856][448]LogWorld: UWorld::CleanupWorld for Gladiator, bSessionEnded=true, bCleanupResources=true
+[2019.12.23-14.10.29:864][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.23-14.10.29:864][448]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.10.29:897][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-14.10.29:899][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.12.23-14.10.29:956][451]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.12.23-14.10.30:815][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.23-14.10.30:872][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Gladiator" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Maps/Gladiator.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.23-14.10.30:902][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.12.23-14.10.31:054][560]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Gladiator4E85527142A0D44830A7D189B1AE8DB9.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Maps/Gladiator.umap'
+[2019.12.23-14.10.31:110][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Gladiator_BuiltData" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Maps/Gladiator_BuiltData.uasset" SILENT=true
+[2019.12.23-14.10.31:298][560]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Gladiator_BuiltData62306FAB4BB7FA532EDF6C8A8DB5D992.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Maps/Gladiator_BuiltData.uasset'
+[2019.12.23-14.10.51:399][745]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.12.23-14.10.54:872][ 99]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.10.55:032][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.12.23-14.10.55:334][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.10.55:404][126]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP8F0E91FB42B1086D75EA558AD5F568A7.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.11.00:777][767]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.23-14.11.00:809][767]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.11.00:809][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.23-14.11.00:809][767]PIE: New page: PIE session: Gladiator (23 Dec 2019 14:11:00)
+[2019.12.23-14.11.00:809][767]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.23-14.11.00:812][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002963s)
+[2019.12.23-14.11.00:813][767]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.23-14.11.00:813][767]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2019.12.23-14.11.00:813][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gladiator.Gladiator to /Game/Maps/UEDPIE_0_Gladiator.Gladiator (0.003866s)
+[2019.12.23-14.11.00:844][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.12.23-14.11.00:859][767]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.23-14.11.00:872][767]LogInit: FAudioDevice initialized.
+[2019.12.23-14.11.00:879][767]LogLoad: Game class is 'BP_GladiatorGameMode_C'
+[2019.12.23-14.11.00:879][767]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gladiator.Gladiator up for play (max tick rate 0) at 2019.12.23-14.11.00
+[2019.12.23-14.11.00:879][767]LogWorld: Bringing up level for play took: 0.000484
+[2019.12.23-14.11.00:880][767]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.12.23-14.11.00:882][767]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Gladiator -0.756
+[2019.12.23-14.11.00:882][767]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.11.06:262][400]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.11.06:262][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-14.11.06:263][400]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.23-14.11.06:263][400]LogWorld: UWorld::CleanupWorld for Gladiator, bSessionEnded=true, bCleanupResources=true
+[2019.12.23-14.11.06:272][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.23-14.11.06:272][400]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.11.06:305][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-14.11.06:307][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.12.23-14.11.06:364][404]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.12.23-14.11.12:632][111]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.11.12:789][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.12.23-14.11.13:070][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.11.13:138][136]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP5B39ECFC4170E167B81510BE4E1DE302.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.11.23:415][350]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.12.23-14.11.23:419][350]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.12.23-14.11.39:833][235]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.11.39:994][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.12.23-14.11.50:031][401]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.11.50:189][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.12.23-14.11.50:510][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.11.50:594][430]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP4AC6A7F643A44A4B614C1D895A167DD0.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.11.52:647][671]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.23-14.11.52:677][671]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.11.52:677][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.23-14.11.52:677][671]PIE: New page: PIE session: Gladiator (23 Dec 2019 14:11:52)
+[2019.12.23-14.11.52:677][671]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.23-14.11.52:680][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002943s)
+[2019.12.23-14.11.52:681][671]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.23-14.11.52:681][671]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2019.12.23-14.11.52:681][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gladiator.Gladiator to /Game/Maps/UEDPIE_0_Gladiator.Gladiator (0.003864s)
+[2019.12.23-14.11.52:712][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.12.23-14.11.52:729][671]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.23-14.11.52:751][671]LogInit: FAudioDevice initialized.
+[2019.12.23-14.11.52:759][671]LogLoad: Game class is 'BP_GladiatorGameMode_C'
+[2019.12.23-14.11.52:761][671]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gladiator.Gladiator up for play (max tick rate 0) at 2019.12.23-14.11.52
+[2019.12.23-14.11.52:761][671]LogWorld: Bringing up level for play took: 0.000932
+[2019.12.23-14.11.52:761][671]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.12.23-14.11.52:765][671]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Gladiator -0.872
+[2019.12.23-14.11.52:766][671]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.11.57:921][285]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.23-14.11.59:622][489]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.23-14.11.59:622][489]LogBlueprintUserMessages: [Player_Character_BP_C_0] 90
+[2019.12.23-14.11.59:739][503]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.23-14.11.59:739][503]LogBlueprintUserMessages: [Player_Character_BP_C_0] 80
+[2019.12.23-14.12.01:639][731]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.12.01:640][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-14.12.01:640][731]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.23-14.12.01:640][731]LogWorld: UWorld::CleanupWorld for Gladiator, bSessionEnded=true, bCleanupResources=true
+[2019.12.23-14.12.01:651][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.23-14.12.01:651][731]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.12.01:681][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-14.12.01:684][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.12.23-14.12.01:739][736]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.12.23-14.12.02:926][834]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.23-14.12.15:584][253]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.12.15:742][253]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.12.23-14.12.16:033][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.12.16:104][279]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP8DC12C4D406C2E9C1014F3A2A3F9D657.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.12.17:971][501]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.23-14.12.18:001][501]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.12.18:001][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.23-14.12.18:001][501]PIE: New page: PIE session: Gladiator (23 Dec 2019 14:12:18)
+[2019.12.23-14.12.18:001][501]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.23-14.12.18:004][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002942s)
+[2019.12.23-14.12.18:005][501]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.23-14.12.18:005][501]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2019.12.23-14.12.18:005][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gladiator.Gladiator to /Game/Maps/UEDPIE_0_Gladiator.Gladiator (0.003884s)
+[2019.12.23-14.12.18:037][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.12.23-14.12.18:053][501]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.23-14.12.18:065][501]LogInit: FAudioDevice initialized.
+[2019.12.23-14.12.18:073][501]LogLoad: Game class is 'BP_GladiatorGameMode_C'
+[2019.12.23-14.12.18:074][501]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gladiator.Gladiator up for play (max tick rate 0) at 2019.12.23-14.12.18
+[2019.12.23-14.12.18:075][501]LogWorld: Bringing up level for play took: 0.000597
+[2019.12.23-14.12.18:075][501]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.12.23-14.12.18:077][501]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Gladiator 0.439
+[2019.12.23-14.12.18:077][501]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.12.22:685][ 52]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.23-14.12.27:969][686]LogBlueprintUserMessages: [Game_Manager_2] 0
+[2019.12.23-14.12.30:773][ 20]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.12.30:774][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-14.12.30:774][ 20]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.23-14.12.30:774][ 20]LogWorld: UWorld::CleanupWorld for Gladiator, bSessionEnded=true, bCleanupResources=true
+[2019.12.23-14.12.30:783][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.23-14.12.30:783][ 20]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.23-14.12.30:815][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.23-14.12.30:818][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.12.23-14.12.30:873][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.12.23-14.12.32:030][131]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.23-14.13.02:560][678]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.13.02:568][678]LogBlueprint: Warning: [Compiler Player_Character_BP] 'Player Character Anim BP' does not inherit from 'Pawn' ( Cast To Player_Character_Anim_BP  would always fail).
+[2019.12.23-14.13.02:721][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.12.23-14.13.03:029][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.13.03:100][706]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP2DFFCDCF491C7647E724A39641D342F5.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.13.16:116][221]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.13.16:124][221]LogBlueprint: Warning: [Compiler Player_Character_BP] 'Player Character Anim BP' does not inherit from 'Character' ( Cast To Player_Character_Anim_BP  would always fail).
+[2019.12.23-14.13.16:277][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.12.23-14.13.16:732][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.13.16:802][268]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BPC210F4594F423280201B719DED0C813F.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.13.26:185][317]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.13.26:194][317]LogBlueprint: Warning: [Compiler Player_Character_BP] 'Player Character Anim BP' does not inherit from 'Skeletal Mesh Component' ( Cast To Player_Character_Anim_BP  would always fail).
+[2019.12.23-14.13.26:349][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.12.23-14.13.26:756][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.13.26:828][356]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BPBEE2D70545DC71C9DCCB2DBF4754948F.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.13.54:952][569]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.13.54:963][569]LogBlueprint: Error: [Compiler Player_Character_BP] The type of  Object  is undetermined.  Connect something to  Cast To Player_Character_Anim_BP  to imply a specific type.
+[2019.12.23-14.13.54:963][569]LogBlueprint: Error: [Compiler Player_Character_BP] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2019.12.23-14.13.55:145][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.12.23-14.13.55:437][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.13.55:509][597]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP4B53AF1945FBF00B6D7C099EBD37D4B1.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.14.13:716][732]LogEditorTransaction: Undo Convert to Pure Cast
+[2019.12.23-14.14.21:043][593]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.14.21:054][593]LogBlueprint: Error: [Compiler Player_Character_BP] The type of  Object  is undetermined.  Connect something to  Cast To Player_Character_Anim_BP  to imply a specific type.
+[2019.12.23-14.14.21:054][593]LogBlueprint: Error: [Compiler Player_Character_BP] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2019.12.23-14.14.21:205][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.12.23-14.14.21:490][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.14.21:562][620]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP06ECEE9547EBAFA3234F308510A9778C.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.14.55:670][568]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.14.55:679][568]LogBlueprint: Warning: [Compiler Player_Character_BP] 'Player Character Anim BP' does not inherit from 'Skeletal Mesh Component' ( Cast To Player_Character_Anim_BP  would always fail).
+[2019.12.23-14.14.55:828][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.12.23-14.14.56:104][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.14.56:177][591]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP6A98AD404C8AA33FFA8FD798E7D7A59F.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.15.09:953][229]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.15.10:117][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.12.23-14.15.10:300][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.15.10:368][244]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BPB8F79B1842426B7A690BE48A9356500F.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.15.24:023][855]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.15.24:188][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.12.23-14.15.24:366][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.15.24:436][868]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BPD14F907A481F2842DE4729BEC04F1A4F.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.15.34:404][ 49]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.15.34:609][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.12.23-14.15.58:703][874]BlueprintLog: New page: Compile Player_Character_BP
+[2019.12.23-14.15.58:868][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.12.23-14.15.59:118][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/Player_Character_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset" SILENT=true
+[2019.12.23-14.15.59:188][896]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP9365CFE3438EB972DBC2BD92C84D6377.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/Player_Character_BP.uasset'
+[2019.12.23-14.16.01:052][112]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP
+[2019.12.23-14.16.01:091][112]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.12.23-14.16.01:562][112]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.23-14.16.01:576][112]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2019.12.23-14.16.01:938][112]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.12.23-14.16.02:573][112]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.12.23-14.16.08:298][711]LogUObjectArray: Warning: Invalid object index 7536737
+[2019.12.23-14.16.08:309][711]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.23-14.16.09:257][711]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.948 s
+[2019.12.23-14.16.09:258][711]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.23-14.16.09:258][711]LogOutputDevice: Error: 
+[2019.12.23-14.16.09:258][711]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.12.23-14.16.09:258][711]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.12.23-14.16.09:258][711]LogOutputDevice: Error: Stack: 
+[2019.12.23-14.16.09:258][711]LogOutputDevice: Error: [Callstack] 0x00007ffab82e41e9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.23-14.16.09:258][711]LogOutputDevice: Error: [Callstack] 0x00007ffab7b07d9a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.23-14.16.09:258][711]LogOutputDevice: Error: [Callstack] 0x00007ffab7b15fff UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.23-14.16.09:258][711]LogOutputDevice: Error: [Callstack] 0x00007ffab7036c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.12.23-14.16.09:258][711]LogOutputDevice: Error: [Callstack] 0x00007ffab62f4dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.23-14.16.09:258][711]LogOutputDevice: Error: [Callstack] 0x00007ffab62ae057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.23-14.16.09:258][711]LogOutputDevice: Error: [Callstack] 0x00007ffac673d644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.23-14.16.09:258][711]LogOutputDevice: Error: [Callstack] 0x00007ffac692c533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.23-14.16.09:258][711]LogOutputDevice: Error: [Callstack] 0x00007ffac678922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.23-14.16.09:258][711]LogOutputDevice: Error: [Callstack] 0x00007ffac6765738 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.23-14.16.09:258][711]LogOutputDevice: Error: [Callstack] 0x00007ffac6759a1e UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.23-14.16.09:258][711]LogOutputDevice: Error: [Callstack] 0x00007ffb04e74c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.23-14.16.09:259][711]LogOutputDevice: Error: [Callstack] 0x00007ffb04e626df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.23-14.16.09:259][711]LogOutputDevice: Error: [Callstack] 0x00007ffb04e77340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.23-14.16.09:259][711]LogOutputDevice: Error: [Callstack] 0x00007ffb04e5edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.23-14.16.09:259][711]LogOutputDevice: Error: [Callstack] 0x00007ffb2b10c906 USER32.dll!UnknownFunction []
+[2019.12.23-14.16.09:259][711]LogOutputDevice: Error: [Callstack] 0x00007ffb2b10c422 USER32.dll!UnknownFunction []
+[2019.12.23-14.16.09:259][711]LogOutputDevice: Error: [Callstack] 0x00007ffb04e788e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.23-14.16.09:259][711]LogOutputDevice: Error: [Callstack] 0x00007ff63fa56980 UE4Editor.exe!UnknownFunction []
+[2019.12.23-14.16.09:259][711]LogOutputDevice: Error: [Callstack] 0x00007ff63fa6a91c UE4Editor.exe!UnknownFunction []
+[2019.12.23-14.16.09:259][711]LogOutputDevice: Error: [Callstack] 0x00007ff63fa6a9fa UE4Editor.exe!UnknownFunction []
+[2019.12.23-14.16.09:259][711]LogOutputDevice: Error: [Callstack] 0x00007ff63fa7b92c UE4Editor.exe!UnknownFunction []
+[2019.12.23-14.16.09:259][711]LogOutputDevice: Error: [Callstack] 0x00007ff63fa7e60e UE4Editor.exe!UnknownFunction []
+[2019.12.23-14.16.09:259][711]LogOutputDevice: Error: [Callstack] 0x00007ffb2b057974 KERNEL32.DLL!UnknownFunction []
+[2019.12.23-14.16.09:259][711]LogOutputDevice: Error: [Callstack] 0x00007ffb2b33a271 ntdll.dll!UnknownFunction []
+[2019.12.23-14.16.09:259][711]LogOutputDevice: Error: 
+[2019.12.23-14.16.09:269][711]LogStats:                SubmitErrorReport -  0.000 s
