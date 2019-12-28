@@ -1,0 +1,765 @@
+﻿Log file open, 12/28/19 17:43:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Gladiator
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.071020
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1050
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=David.p.b -epicuserid=66ab0eb387d24985aab87c2368d90e3c -epiclocale=en-GB
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Engine.ini]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Engine.ini]
+[2019.12.28-17.43.07:334][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Engine.ini]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Engine.ini]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.28-17.43.07:334][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Engine.ini]
+[2019.12.28-17.43.07:334][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Engine.ini]
+[2019.12.28-17.43.07:338][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.28-17.43.07:338][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.28-17.43.07:339][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.28-17.43.07:339][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.28-17.43.07:339][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.28-17.43.07:341][  0]LogHAL: Display: Platform has ~ 16 GB [17131786240 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.28-17.43.07:341][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.28-17.43.07:341][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-17.43.07:341][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.28-17.43.07:341][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.28-17.43.07:341][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-17.43.07:341][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.28-17.43.07:341][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.28-17.43.07:342][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.28-17.43.07:342][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.28-17.43.07:343][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.28-17.43.07:343][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Engine.ini]
+[2019.12.28-17.43.07:343][  0]LogInit: Computer: DESKTOP-GDVI54N
+[2019.12.28-17.43.07:343][  0]LogInit: User: daveb
+[2019.12.28-17.43.07:343][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.28-17.43.07:343][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.28-17.43.07:343][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.12.28-17.43.07:343][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.28-17.43.07:343][  0]LogMemory: Process Physical Memory: 101.82 MB used, 101.83 MB peak
+[2019.12.28-17.43.07:343][  0]LogMemory: Process Virtual Memory: 103.11 MB used, 103.11 MB peak
+[2019.12.28-17.43.07:343][  0]LogMemory: Physical Memory: 7210.37 MB used,  9127.77 MB free, 16338.14 MB total
+[2019.12.28-17.43.07:343][  0]LogMemory: Virtual Memory: 4685.22 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.12.28-17.43.07:345][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.28-17.43.07:376][  0]LogInit: Using OS detected language (en-GB).
+[2019.12.28-17.43.07:376][  0]LogInit: Using OS detected locale (en-GB).
+[2019.12.28-17.43.07:377][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.12.28-17.43.07:522][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.28-17.43.07:545][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.28-17.43.07:545][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.28-17.43.07:775][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.28-17.43.07:775][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.28-17.43.07:819][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.12.28-17.43.07:819][  0]LogD3D11RHI:       1977/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.12.28-17.43.07:822][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.28-17.43.07:822][  0]LogD3D11RHI:       0/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.28-17.43.07:822][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.28-17.43.07:828][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.28-17.43.07:828][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.28-17.43.07:828][  0]LogWindows: EnumDisplayDevices:
+[2019.12.28-17.43.07:828][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2019.12.28-17.43.07:829][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
+[2019.12.28-17.43.07:829][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.12.28-17.43.07:829][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.12.28-17.43.07:829][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.28-17.43.07:829][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.12.28-17.43.07:829][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2019.12.28-17.43.07:829][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2019.12.28-17.43.07:829][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2019.12.28-17.43.07:866][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.28-17.43.07:876][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.28-17.43.08:302][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.28-17.43.08:310][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.28-17.43.08:316][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.28-17.43.08:324][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.28-17.43.08:332][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.28-17.43.08:340][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.28-17.43.08:347][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.28-17.43.08:355][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.28-17.43.08:359][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.28-17.43.08:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.28-17.43.08:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.28-17.43.08:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.28-17.43.08:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.28-17.43.08:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.28-17.43.08:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.28-17.43.08:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.28-17.43.08:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.28-17.43.08:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.28-17.43.08:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.28-17.43.08:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.28-17.43.08:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.28-17.43.08:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.28-17.43.08:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.28-17.43.08:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.28-17.43.08:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.28-17.43.08:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.28-17.43.08:385][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.28-17.43.08:387][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.28-17.43.08:402][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.28-17.43.08:402][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.28-17.43.08:414][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.28-17.43.08:414][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.28-17.43.08:421][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.28-17.43.08:427][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.28-17.43.08:433][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.28-17.43.08:440][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.28-17.43.08:460][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.28-17.43.08:461][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.28-17.43.08:461][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.28-17.43.08:470][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.28-17.43.08:523][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Intermediate/Shaders/WorkingDirectory/10280/).
+[2019.12.28-17.43.08:523][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/daveb/AppData/Local/Temp/UnrealShaderWorkingDir/683AF7F641054A732BCBB3BAA1F0FCBE/'.
+[2019.12.28-17.43.08:526][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.28-17.43.08:526][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.28-17.43.08:526][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.28-17.43.09:018][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.28-17.43.09:066][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/daveb/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.28-17.43.09:067][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/daveb/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.28-17.43.09:067][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Unreal_Project/Gladiator/Gladiators/Gladiator/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.28-17.43.09:067][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.28-17.43.09:067][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Unreal_Project/Gladiator/Gladiators/Gladiator/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.28-17.43.09:067][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.28-17.43.09:075][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.28-17.43.09:075][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.28-17.43.09:075][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.28-17.43.09:076][  0]LogDerivedDataCache: Using Local data cache path C:/Users/daveb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.28-17.43.09:077][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.28-17.43.09:077][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.28-17.43.09:092][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.28-17.43.09:094][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.28-17.43.09:094][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.28-17.43.09:154][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2019.12.28-17.43.09:363][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.28-17.43.09:483][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.28-17.43.09:483][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.28-17.43.09:483][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.28-17.43.09:483][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.28-17.43.09:483][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.28-17.43.09:491][  0]LogNetVersion: Gladiator 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3699715427)
+[2019.12.28-17.43.10:064][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.280810 seconds
+[2019.12.28-17.43.10:070][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.28-17.43.10:071][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.28-17.43.10:071][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.28-17.43.10:978][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.28-17.43.10:980][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.28-17.43.11:035][  0]SourceControl: Source control is disabled
+[2019.12.28-17.43.11:035][  0]SourceControl: Source control is disabled
+[2019.12.28-17.43.11:036][  0]SourceControl: Source control is disabled
+[2019.12.28-17.43.11:037][  0]SourceControl: Source control is disabled
+[2019.12.28-17.43.11:126][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.28-17.43.11:284][  0]LogOcInput: OculusInput pre-init called
+[2019.12.28-17.43.11:291][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.28-17.43.11:291][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.28-17.43.11:343][  0]LogEngine: Initializing Engine...
+[2019.12.28-17.43.11:345][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.28-17.43.11:345][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.28-17.43.11:525][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.28-17.43.11:539][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.28-17.43.11:604][  0]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.28-17.43.11:623][  0]LogInit: FAudioDevice initialized.
+[2019.12.28-17.43.11:623][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.28-17.43.11:781][  0]LogDerivedDataCache: Saved boot cache 0.16s 73MB C:/Users/daveb/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.28-17.43.11:791][  0]LogInit: Texture streaming: Enabled
+[2019.12.28-17.43.11:835][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.28-17.43.11:946][  0]LogInit: Transaction tracking system initialized
+[2019.12.28-17.43.12:022][  0]BlueprintLog: New page: Editor Load
+[2019.12.28-17.43.12:114][  0]LocalizationService: Localization service is disabled
+[2019.12.28-17.43.12:329][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/' took 0.00s
+[2019.12.28-17.43.12:329][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.28-17.43.12:330][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.28-17.43.12:536][  0]SourceControl: Source control is disabled
+[2019.12.28-17.43.12:536][  0]Cmd: MAP LOAD FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Maps/Gladiator.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.28-17.43.12:536][  0]LightingResults: New page: Lighting Build
+[2019.12.28-17.43.12:539][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-17.43.12:539][  0]MapCheck: New page: Map Check
+[2019.12.28-17.43.12:539][  0]LightingResults: New page: Lighting Build
+[2019.12.28-17.43.12:561][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.12.28-17.43.13:021][  0]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.28-17.43.13:033][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.28-17.43.13:056][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.12.28-17.43.13:056][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.28-17.43.13:056][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2019.12.28-17.43.13:056][  0]LogFileHelpers: Loading map 'Gladiator' took 0.521
+[2019.12.28-17.43.13:236][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-17.43.13:241][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-17.43.13:246][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-17.43.13:251][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-17.43.13:257][  0]LogCollectionManager: Loaded 0 collections in 0.001695 seconds
+[2019.12.28-17.43.13:263][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Collections/' took 0.00s
+[2019.12.28-17.43.13:263][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Developers/daveb/Collections/' took 0.00s
+[2019.12.28-17.43.13:263][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Collections/' took 0.00s
+[2019.12.28-17.43.13:263][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.12.28-17.43.13:269][  0]LogContentBrowser: Native class hierarchy populated in 0.0063 seconds. Added 2866 classes and 682 folders.
+[2019.12.28-17.43.13:275][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.28-17.43.13:349][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.28-17.43.13:354][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.12.28-17.43.13:363][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.28-17.43.13:365][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.28-17.43.13:368][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.28-17.43.13:416][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.12.28-17.43.13:523][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.28-17.43.13:523][  0]LogLoad: (Engine Initialization) Total time: 38.89 seconds
+[2019.12.28-17.43.13:523][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.28-17.43.13:579][  0]LogAssetRegistry: Asset discovery search completed in 4.4250 seconds
+[2019.12.28-17.43.13:581][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2019.12.28-17.43.13:581][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2019.12.28-17.43.13:582][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.28-17.43.13:608][  0]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.28-17.43.32:131][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-17.43.58:338][165]LogEditorViewport: Clicking on Actor (LMB): Mutant_Spawner_C (Mutant_Spawner2)
+[2019.12.28-17.44.03:368][754]LogEditorViewport: Clicking on Actor (LMB): Mutant_Spawner_C (Mutant_Spawner)
+[2019.12.28-17.44.07:887][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-17.44.07:945][298]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.28-17.44.07:974][298]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.28-17.44.07:974][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.28-17.44.07:974][298]PIE: New page: PIE session: Gladiator (28 Dec 2019 17:44:07)
+[2019.12.28-17.44.07:975][298]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.28-17.44.07:975][298]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.28-17.44.07:979][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003514s)
+[2019.12.28-17.44.07:980][298]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.28-17.44.07:980][298]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2019.12.28-17.44.07:980][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gladiator.Gladiator to /Game/Maps/UEDPIE_0_Gladiator.Gladiator (0.004486s)
+[2019.12.28-17.44.08:002][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.12.28-17.44.08:024][298]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.28-17.44.08:038][298]LogInit: FAudioDevice initialized.
+[2019.12.28-17.44.08:068][298]LogLoad: Game class is 'BP_GladiatorGameMode_C'
+[2019.12.28-17.44.08:070][298]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gladiator.Gladiator up for play (max tick rate 0) at 2019.12.28-17.44.08
+[2019.12.28-17.44.08:071][298]LogWorld: Bringing up level for play took: 0.002200
+[2019.12.28-17.44.08:071][298]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2019.12.28-17.44.08:078][298]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.12.28-17.44.08:080][298]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Gladiator 0.83
+[2019.12.28-17.44.08:080][298]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.28-17.44.12:531][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-17.44.12:531][816]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.28-17.44.12:531][816]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.28-17.44.12:531][816]LogWorld: UWorld::CleanupWorld for Gladiator, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-17.44.12:541][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.28-17.44.12:541][816]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.28-17.44.12:564][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-17.44.12:567][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.12.28-17.44.12:708][817]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.12.28-17.44.15:393][139]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.28-17.44.15:421][139]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.28-17.44.15:421][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.28-17.44.15:421][139]PIE: New page: PIE session: Gladiator (28 Dec 2019 17:44:15)
+[2019.12.28-17.44.15:422][139]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.28-17.44.15:426][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004759s)
+[2019.12.28-17.44.15:428][139]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.28-17.44.15:428][139]LogPlayLevel: PIE: World Init took: (0.001363s)
+[2019.12.28-17.44.15:428][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gladiator.Gladiator to /Game/Maps/UEDPIE_0_Gladiator.Gladiator (0.006311s)
+[2019.12.28-17.44.15:446][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.12.28-17.44.15:467][139]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.28-17.44.15:479][139]LogInit: FAudioDevice initialized.
+[2019.12.28-17.44.15:485][139]LogLoad: Game class is 'BP_GladiatorGameMode_C'
+[2019.12.28-17.44.15:487][139]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gladiator.Gladiator up for play (max tick rate 0) at 2019.12.28-17.44.15
+[2019.12.28-17.44.15:488][139]LogWorld: Bringing up level for play took: 0.002221
+[2019.12.28-17.44.15:488][139]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.12.28-17.44.15:492][139]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Gladiator 0.242
+[2019.12.28-17.44.15:492][139]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.28-17.44.20:678][753]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 190
+[2019.12.28-17.44.21:194][815]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 180
+[2019.12.28-17.44.21:815][889]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.28-17.44.23:808][128]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] NPC: Hit Shield
+[2019.12.28-17.44.23:809][128]LogBlueprintUserMessages: [Player_Character_BP_C_0] 80
+[2019.12.28-17.44.23:817][129]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] NPC: Hit Shield
+[2019.12.28-17.44.23:817][129]LogBlueprintUserMessages: [Player_Character_BP_C_0] 60
+[2019.12.28-17.44.24:550][217]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 170
+[2019.12.28-17.44.26:153][409]LogBlueprintUserMessages: [Game_Manager_2] 0
+[2019.12.28-17.44.26:318][429]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 160
+[2019.12.28-17.44.26:335][431]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 140
+[2019.12.28-17.44.28:895][738]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] NPC: Hit Shield
+[2019.12.28-17.44.30:911][980]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 130
+[2019.12.28-17.44.31:795][ 86]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 150
+[2019.12.28-17.44.32:311][148]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 140
+[2019.12.28-17.44.32:370][155]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 120
+[2019.12.28-17.44.34:061][358]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 110
+[2019.12.28-17.44.35:137][487]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 130
+[2019.12.28-17.44.35:146][488]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 120
+[2019.12.28-17.44.35:153][489]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 100
+[2019.12.28-17.44.35:186][493]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 90
+[2019.12.28-17.44.35:187][493]LogCharacterMovement: Enemy_Blueprint_C_0 is stuck and failed to move! Velocity: X=-1116.72 Y=-608.54 Z=0.00 Location: X=-34.72 Y=32.63 Z=89.68 Normal: X=0.42 Y=0.91 Z=-0.00 PenetrationDepth:6.554 Actor:Player_Character_BP_C_0 Component:CharacterMesh0 BoneName:Sword_joint (0 other events since notify)
+[2019.12.28-17.44.36:156][609]LogBlueprintUserMessages: [Game_Manager_2] 0
+[2019.12.28-17.44.42:434][362]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 110
+[2019.12.28-17.44.42:434][362]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 100
+[2019.12.28-17.44.43:602][502]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 90
+[2019.12.28-17.44.45:102][682]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 80
+[2019.12.28-17.44.45:110][683]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 70
+[2019.12.28-17.44.46:161][809]LogBlueprintUserMessages: [Game_Manager_2] 0
+[2019.12.28-17.44.47:986][ 28]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 60
+[2019.12.28-17.44.49:228][177]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 80
+[2019.12.28-17.44.49:269][182]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 50
+[2019.12.28-17.44.50:686][352]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 40
+[2019.12.28-17.44.50:719][356]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 70
+[2019.12.28-17.44.50:736][358]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 60
+[2019.12.28-17.44.51:352][432]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] NPC: Hit Shield
+[2019.12.28-17.44.51:353][432]LogBlueprintUserMessages: [Player_Character_BP_C_0] 40
+[2019.12.28-17.44.51:930][501]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 50
+[2019.12.28-17.44.53:770][722]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 40
+[2019.12.28-17.44.53:787][724]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 30
+[2019.12.28-17.44.55:721][956]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 20
+[2019.12.28-17.44.56:162][  9]LogBlueprintUserMessages: [Game_Manager_2] 0
+[2019.12.28-17.44.57:599][181]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 10
+[2019.12.28-17.44.57:625][184]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 0
+[2019.12.28-17.44.57:625][184]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] Enemy_Dead
+[2019.12.28-17.44.58:200][253]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.28-17.44.58:200][253]LogBlueprintUserMessages: [Player_Character_BP_C_0] 25
+[2019.12.28-17.44.59:035][353]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 30
+[2019.12.28-17.44.59:593][420]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 20
+[2019.12.28-17.45.00:920][579]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 10
+[2019.12.28-17.45.03:587][899]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] -10
+[2019.12.28-17.45.03:587][899]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] Enemy_Dead
+[2019.12.28-17.45.06:170][209]LogBlueprintUserMessages: [Game_Manager_2] 100
+[2019.12.28-17.45.07:805][405]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 0
+[2019.12.28-17.45.07:805][405]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] Enemy_Dead
+[2019.12.28-17.45.07:821][407]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] -10
+[2019.12.28-17.45.07:821][407]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] Enemy_Dead
+[2019.12.28-17.45.10:134][684]LogBlueprintUserMessages: [Enemy_Blueprint_C_2] NPC: Hit Shield
+[2019.12.28-17.45.10:134][684]LogBlueprintUserMessages: [Player_Character_BP_C_0] 65
+[2019.12.28-17.45.12:429][957]LogBlueprintUserMessages: [Enemy_Blueprint_C_2] NPC: Hit Shield
+[2019.12.28-17.45.12:429][957]LogBlueprintUserMessages: [Player_Character_BP_C_0] 55
+[2019.12.28-17.45.12:921][ 16]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] -20
+[2019.12.28-17.45.12:921][ 16]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] Enemy_Dead
+[2019.12.28-17.45.13:512][ 87]LogBlueprintUserMessages: [Enemy_Blueprint_C_2] NPC: Hit Shield
+[2019.12.28-17.45.13:512][ 87]LogBlueprintUserMessages: [Player_Character_BP_C_0] 45
+[2019.12.28-17.45.15:230][293]LogBlueprintUserMessages: [Enemy_Blueprint_C_3] 140
+[2019.12.28-17.45.16:175][406]LogBlueprintUserMessages: [Game_Manager_2] 300
+[2019.12.28-17.45.17:116][519]LogBlueprintUserMessages: [Enemy_Blueprint_C_3] NPC: Hit Shield
+[2019.12.28-17.45.17:116][519]LogBlueprintUserMessages: [Player_Character_BP_C_0] 30
+[2019.12.28-17.45.17:242][534]LogBlueprintUserMessages: [Enemy_Blueprint_C_2] NPC: Hit Shield
+[2019.12.28-17.45.17:242][534]LogBlueprintUserMessages: [Player_Character_BP_C_0] 20
+[2019.12.28-17.45.17:475][562]LogBlueprintUserMessages: [Enemy_Blueprint_C_3] NPC: Hit Shield
+[2019.12.28-17.45.17:475][562]LogBlueprintUserMessages: [Player_Character_BP_C_0] 5
+[2019.12.28-17.45.18:727][712]LogBlueprintUserMessages: [Enemy_Blueprint_C_2] NPC: Hit Shield
+[2019.12.28-17.45.18:727][712]LogBlueprintUserMessages: [Player_Character_BP_C_0] -5
+[2019.12.28-17.45.24:776][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-17.45.24:858][446]LogNet: Browse: /Game/Maps/Gladiator
+[2019.12.28-17.45.24:858][446]LogLoad: LoadMap: /Game/Maps/Gladiator
+[2019.12.28-17.45.24:858][446]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.28-17.45.24:871][446]LogWorld: UWorld::CleanupWorld for Gladiator, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-17.45.24:907][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.12.28-17.45.24:907][446]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.28-17.45.24:910][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003060s)
+[2019.12.28-17.45.24:911][446]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.28-17.45.24:911][446]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2019.12.28-17.45.24:911][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gladiator.Gladiator to /Game/Maps/UEDPIE_0_Gladiator.Gladiator (0.004014s)
+[2019.12.28-17.45.24:911][446]LogLoad: Game class is 'BP_GladiatorGameMode_C'
+[2019.12.28-17.45.24:913][446]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gladiator.Gladiator up for play (max tick rate 0) at 2019.12.28-17.45.24
+[2019.12.28-17.45.24:914][446]LogWorld: Bringing up level for play took: 0.002282
+[2019.12.28-17.45.24:927][446]LogLoad: Took 0.069147 seconds to LoadMap(/Game/Maps/UEDPIE_0_Gladiator)
+[2019.12.28-17.45.28:000][814]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 190
+[2019.12.28-17.45.28:560][881]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 190
+[2019.12.28-17.45.28:601][886]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 180
+[2019.12.28-17.45.31:560][241]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 180
+[2019.12.28-17.45.31:577][243]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 170
+[2019.12.28-17.45.35:743][743]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 170
+[2019.12.28-17.45.35:776][747]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 160
+[2019.12.28-17.45.35:785][748]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 150
+[2019.12.28-17.45.35:969][770]LogBlueprintUserMessages: [Game_Manager_2] 0
+[2019.12.28-17.45.37:459][948]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 160
+[2019.12.28-17.45.37:492][952]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 140
+[2019.12.28-17.45.37:493][952]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 130
+[2019.12.28-17.45.38:193][ 36]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.28-17.45.38:193][ 36]LogBlueprintUserMessages: [Player_Character_BP_C_0] 80
+[2019.12.28-17.45.39:609][206]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] 120
+[2019.12.28-17.45.39:693][216]LogBlueprintUserMessages: [Player_Character_BP_C_0] 60
+[2019.12.28-17.45.39:693][216]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] NPC: Hit Shield
+[2019.12.28-17.45.41:384][419]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 150
+[2019.12.28-17.45.43:371][657]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.28-17.45.43:372][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-17.45.43:372][657]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.28-17.45.43:372][657]LogWorld: UWorld::CleanupWorld for Gladiator, bSessionEnded=true, bCleanupResources=true
+[2019.12.28-17.45.43:381][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.28-17.45.43:381][657]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.28-17.45.43:405][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.28-17.45.43:408][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.12.28-17.45.43:473][663]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.12.28-17.45.45:962][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-17.45.48:113][187]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.28-17.45.48:119][187]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/NPCs/Enemy_Blueprint.Enemy_Blueprint
+[2019.12.28-17.45.48:701][187]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 121 classes and 0 folders.
+[2019.12.28-17.45.49:624][187]LogSlate: Took 0.024626 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.28-17.45.51:428][368]LogSlate: Took 0.010685 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.28-17.46.03:471][472]LogEditorTransaction: Undo Move Node
+[2019.12.28-17.46.22:140][415]LogRenderer: Reallocating scene render targets to support 1208x692 Format 10 NumSamples 1 (Frame:1).
+[2019.12.28-17.46.31:516][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.28-17.46.31:577][262]BlueprintLog: New page: Compile Enemy_Blueprint
+[2019.12.28-17.46.31:781][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.12.28-17.46.45:877][399]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.28-17.46.45:878][399]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP
+[2019.12.28-17.46.45:902][399]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.12.28-17.46.46:305][399]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.28-17.46.46:315][399]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2019.12.28-17.46.46:571][399]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.12.28-17.46.47:177][399]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.12.28-17.47.15:135][855]LogUObjectArray: Warning: Invalid object index 7798816
+[2019.12.28-17.47.15:147][855]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.28-17.47.17:437][855]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.291 s
+[2019.12.28-17.47.17:437][855]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.28-17.47.17:437][855]LogOutputDevice: Error: 
+[2019.12.28-17.47.17:437][855]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.12.28-17.47.17:437][855]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.12.28-17.47.17:437][855]LogOutputDevice: Error: Stack: 
+[2019.12.28-17.47.17:437][855]LogOutputDevice: Error: [Callstack] 0x00007ffa987e41e9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.28-17.47.17:437][855]LogOutputDevice: Error: [Callstack] 0x00007ffa98007d9a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.28-17.47.17:437][855]LogOutputDevice: Error: [Callstack] 0x00007ffa98015fff UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.28-17.47.17:437][855]LogOutputDevice: Error: [Callstack] 0x00007ffa9f2b6c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.12.28-17.47.17:437][855]LogOutputDevice: Error: [Callstack] 0x00007ffa96084dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.28-17.47.17:437][855]LogOutputDevice: Error: [Callstack] 0x00007ffa9603e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.28-17.47.17:437][855]LogOutputDevice: Error: [Callstack] 0x00007ffaa187d644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.28-17.47.17:437][855]LogOutputDevice: Error: [Callstack] 0x00007ffaa1a6c533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.28-17.47.17:437][855]LogOutputDevice: Error: [Callstack] 0x00007ffaa18c922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.28-17.47.17:437][855]LogOutputDevice: Error: [Callstack] 0x00007ffaa18a5738 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.28-17.47.17:437][855]LogOutputDevice: Error: [Callstack] 0x00007ffaa1899a1e UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.28-17.47.17:438][855]LogOutputDevice: Error: [Callstack] 0x00007ffae7ea4c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.28-17.47.17:438][855]LogOutputDevice: Error: [Callstack] 0x00007ffae7e926df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.28-17.47.17:438][855]LogOutputDevice: Error: [Callstack] 0x00007ffae7ea7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.28-17.47.17:438][855]LogOutputDevice: Error: [Callstack] 0x00007ffae7e8edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.28-17.47.17:438][855]LogOutputDevice: Error: [Callstack] 0x00007ffb2b10c906 USER32.dll!UnknownFunction []
+[2019.12.28-17.47.17:438][855]LogOutputDevice: Error: [Callstack] 0x00007ffb2b10c422 USER32.dll!UnknownFunction []
+[2019.12.28-17.47.17:438][855]LogOutputDevice: Error: [Callstack] 0x00007ffae7ea88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.28-17.47.17:438][855]LogOutputDevice: Error: [Callstack] 0x00007ff63fa56980 UE4Editor.exe!UnknownFunction []
+[2019.12.28-17.47.17:438][855]LogOutputDevice: Error: [Callstack] 0x00007ff63fa6a91c UE4Editor.exe!UnknownFunction []
+[2019.12.28-17.47.17:438][855]LogOutputDevice: Error: [Callstack] 0x00007ff63fa6a9fa UE4Editor.exe!UnknownFunction []
+[2019.12.28-17.47.17:438][855]LogOutputDevice: Error: [Callstack] 0x00007ff63fa7b92c UE4Editor.exe!UnknownFunction []
+[2019.12.28-17.47.17:438][855]LogOutputDevice: Error: [Callstack] 0x00007ff63fa7e60e UE4Editor.exe!UnknownFunction []
+[2019.12.28-17.47.17:438][855]LogOutputDevice: Error: [Callstack] 0x00007ffb2b057974 KERNEL32.DLL!UnknownFunction []
+[2019.12.28-17.47.17:438][855]LogOutputDevice: Error: [Callstack] 0x00007ffb2b33a271 ntdll.dll!UnknownFunction []
+[2019.12.28-17.47.17:438][855]LogOutputDevice: Error: 
+[2019.12.28-17.47.17:443][855]LogStats:                SubmitErrorReport -  0.000 s
