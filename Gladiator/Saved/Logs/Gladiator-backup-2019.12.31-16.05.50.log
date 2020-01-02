@@ -1,0 +1,1395 @@
+﻿Log file open, 12/31/19 14:28:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Gladiator
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.088387
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1050
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Engine.ini]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Engine.ini]
+[2019.12.31-14.28.07:928][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Engine.ini]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Engine.ini]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.31-14.28.07:928][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Engine.ini]
+[2019.12.31-14.28.07:928][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Engine.ini]
+[2019.12.31-14.28.07:932][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.31-14.28.07:932][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.31-14.28.07:933][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.31-14.28.07:933][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.31-14.28.07:933][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.31-14.28.07:933][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-14.28.07:933][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.31-14.28.07:933][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.31-14.28.07:933][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.31-14.28.07:933][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.31-14.28.07:933][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.31-14.28.07:933][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.31-14.28.07:933][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.31-14.28.07:933][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.31-14.28.07:933][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.31-14.28.07:933][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.31-14.28.07:933][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.31-14.28.07:933][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.31-14.28.07:933][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.31-14.28.07:933][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-14.28.07:933][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.31-14.28.07:933][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.31-14.28.07:933][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.31-14.28.07:933][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.31-14.28.07:936][  0]LogHAL: Display: Platform has ~ 16 GB [17131786240 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.31-14.28.07:936][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.31-14.28.07:936][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.31-14.28.07:936][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Scalability.ini]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.31-14.28.07:937][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Config/Windows/Engine.ini]
+[2019.12.31-14.28.07:937][  0]LogInit: Computer: DESKTOP-GDVI54N
+[2019.12.31-14.28.07:937][  0]LogInit: User: daveb
+[2019.12.31-14.28.07:937][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.31-14.28.07:937][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.31-14.28.07:937][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.12.31-14.28.07:937][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.31-14.28.07:937][  0]LogMemory: Process Physical Memory: 101.53 MB used, 101.54 MB peak
+[2019.12.31-14.28.07:937][  0]LogMemory: Process Virtual Memory: 104.62 MB used, 104.62 MB peak
+[2019.12.31-14.28.07:937][  0]LogMemory: Physical Memory: 7030.51 MB used,  9307.64 MB free, 16338.14 MB total
+[2019.12.31-14.28.07:937][  0]LogMemory: Virtual Memory: 4686.78 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.12.31-14.28.07:940][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.31-14.28.07:966][  0]LogInit: Using OS detected language (en-GB).
+[2019.12.31-14.28.07:966][  0]LogInit: Using OS detected locale (en-GB).
+[2019.12.31-14.28.07:967][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.12.31-14.28.08:167][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.31-14.28.08:194][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.31-14.28.08:194][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.31-14.28.08:431][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.31-14.28.08:431][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.31-14.28.08:480][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.12.31-14.28.08:480][  0]LogD3D11RHI:       1977/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.12.31-14.28.08:483][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.31-14.28.08:483][  0]LogD3D11RHI:       0/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.31-14.28.08:483][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.31-14.28.08:489][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.31-14.28.08:489][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.31-14.28.08:489][  0]LogWindows: EnumDisplayDevices:
+[2019.12.31-14.28.08:489][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2019.12.31-14.28.08:490][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
+[2019.12.31-14.28.08:490][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.12.31-14.28.08:490][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.12.31-14.28.08:490][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.31-14.28.08:490][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.12.31-14.28.08:490][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2019.12.31-14.28.08:490][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2019.12.31-14.28.08:490][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2019.12.31-14.28.08:523][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.31-14.28.08:533][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.31-14.28.08:929][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.31-14.28.08:937][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.31-14.28.08:945][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.31-14.28.08:952][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.31-14.28.08:961][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.31-14.28.08:973][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.31-14.28.08:980][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.31-14.28.08:989][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.31-14.28.08:993][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.31-14.28.09:018][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.31-14.28.09:018][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.31-14.28.09:018][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.31-14.28.09:018][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.31-14.28.09:018][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.31-14.28.09:018][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.31-14.28.09:018][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.31-14.28.09:018][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.31-14.28.09:018][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.31-14.28.09:018][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.31-14.28.09:018][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.31-14.28.09:018][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.31-14.28.09:018][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.31-14.28.09:018][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.31-14.28.09:018][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.31-14.28.09:018][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.31-14.28.09:018][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.31-14.28.09:018][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.31-14.28.09:021][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.31-14.28.09:036][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.31-14.28.09:036][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.31-14.28.09:048][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.31-14.28.09:048][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.31-14.28.09:054][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.31-14.28.09:060][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.31-14.28.09:065][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.31-14.28.09:072][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.31-14.28.09:092][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.31-14.28.09:092][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.31-14.28.09:093][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.31-14.28.09:101][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.31-14.28.09:155][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Intermediate/Shaders/WorkingDirectory/1520/).
+[2019.12.31-14.28.09:155][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/daveb/AppData/Local/Temp/UnrealShaderWorkingDir/977AFB264162FAB6005320AEBD32D1F9/'.
+[2019.12.31-14.28.09:158][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.31-14.28.09:158][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.31-14.28.09:158][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.31-14.28.09:643][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.31-14.28.09:697][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/daveb/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.31-14.28.09:697][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/daveb/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.31-14.28.09:698][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Unreal_Project/Gladiator/Gladiators/Gladiator/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.31-14.28.09:698][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.31-14.28.09:698][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Unreal_Project/Gladiator/Gladiators/Gladiator/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.31-14.28.09:698][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.31-14.28.09:706][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.31-14.28.09:706][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.31-14.28.09:707][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.31-14.28.09:708][  0]LogDerivedDataCache: Using Local data cache path C:/Users/daveb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.31-14.28.09:708][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.31-14.28.09:708][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.31-14.28.09:723][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.31-14.28.09:725][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.31-14.28.09:726][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.31-14.28.09:787][  0]LogAssetRegistry: FAssetRegistry took 0.0018 seconds to start up
+[2019.12.31-14.28.09:984][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.31-14.28.10:102][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.31-14.28.10:102][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.31-14.28.10:102][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.31-14.28.10:102][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.31-14.28.10:102][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.31-14.28.10:109][  0]LogNetVersion: Gladiator 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3699715427)
+[2019.12.31-14.28.11:072][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.669641 seconds
+[2019.12.31-14.28.11:087][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.31-14.28.11:087][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.31-14.28.11:087][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.31-14.28.12:038][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.31-14.28.12:040][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.31-14.28.12:211][  0]SourceControl: Source control is disabled
+[2019.12.31-14.28.12:211][  0]SourceControl: Source control is disabled
+[2019.12.31-14.28.12:214][  0]SourceControl: Source control is disabled
+[2019.12.31-14.28.12:216][  0]SourceControl: Source control is disabled
+[2019.12.31-14.28.12:331][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.31-14.28.12:462][  0]LogOcInput: OculusInput pre-init called
+[2019.12.31-14.28.12:468][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.31-14.28.12:468][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.31-14.28.12:521][  0]LogEngine: Initializing Engine...
+[2019.12.31-14.28.12:523][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.31-14.28.12:523][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.31-14.28.12:715][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.31-14.28.12:734][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.31-14.28.12:753][  0]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.31-14.28.12:771][  0]LogInit: FAudioDevice initialized.
+[2019.12.31-14.28.12:771][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.31-14.28.12:928][  0]LogDerivedDataCache: Saved boot cache 0.16s 73MB C:/Users/daveb/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.31-14.28.12:943][  0]LogInit: Texture streaming: Enabled
+[2019.12.31-14.28.12:980][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.31-14.28.13:118][  0]LogInit: Transaction tracking system initialized
+[2019.12.31-14.28.13:192][  0]BlueprintLog: New page: Editor Load
+[2019.12.31-14.28.13:283][  0]LocalizationService: Localization service is disabled
+[2019.12.31-14.28.13:621][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/' took 0.00s
+[2019.12.31-14.28.13:621][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.31-14.28.13:621][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.31-14.28.13:808][  0]SourceControl: Source control is disabled
+[2019.12.31-14.28.13:808][  0]Cmd: MAP LOAD FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Maps/Gladiator.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.31-14.28.13:808][  0]LightingResults: New page: Lighting Build
+[2019.12.31-14.28.13:811][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-14.28.13:811][  0]MapCheck: New page: Map Check
+[2019.12.31-14.28.13:811][  0]LightingResults: New page: Lighting Build
+[2019.12.31-14.28.13:831][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.12.31-14.28.22:156][  0]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.31-14.28.22:247][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.31-14.28.22:311][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.12.31-14.28.22:311][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.31-14.28.22:311][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.075ms to complete.
+[2019.12.31-14.28.22:312][  0]LogFileHelpers: Loading map 'Gladiator' took 8.503
+[2019.12.31-14.28.22:966][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-14.28.23:004][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-14.28.23:028][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-14.28.23:042][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-14.28.23:123][  0]LogCollectionManager: Loaded 0 collections in 0.009175 seconds
+[2019.12.31-14.28.23:190][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Collections/' took 0.00s
+[2019.12.31-14.28.23:190][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Developers/daveb/Collections/' took 0.00s
+[2019.12.31-14.28.23:190][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Collections/' took 0.00s
+[2019.12.31-14.28.23:190][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.31-14.28.23:211][  0]LogContentBrowser: Native class hierarchy populated in 0.0195 seconds. Added 2866 classes and 682 folders.
+[2019.12.31-14.28.23:270][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.12.31-14.28.24:851][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2019.12.31-14.28.24:962][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2019.12.31-14.28.25:072][  0]LogSlate: Took 0.001261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.31-14.28.25:082][  0]LogSlate: Took 0.001309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.31-14.28.25:107][  0]LogSlate: Took 0.009408 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.31-14.28.25:433][  0]LogRenderer: Reallocating scene render targets to support 1128x572 Format 10 NumSamples 1 (Frame:1).
+[2019.12.31-14.28.25:643][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.31-14.28.25:643][  0]LogLoad: (Engine Initialization) Total time: 21.77 seconds
+[2019.12.31-14.28.25:643][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.31-14.28.25:714][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.31-14.28.25:843][  0]LogSlate: Took 0.009225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.31-14.28.26:358][  8]LogAssetRegistry: Asset discovery search completed in 16.5719 seconds
+[2019.12.31-14.28.26:371][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.12.31-14.28.26:371][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2019.12.31-14.30.17:075][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.31-14.30.18:474][535]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.31-14.30.18:481][535]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/Player/Player_Character_BP.Player_Character_BP
+[2019.12.31-14.30.19:394][535]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0021 seconds. Added 121 classes and 0 folders.
+[2019.12.31-14.30.21:186][535]LogSlate: Took 0.006680 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.31-14.30.21:473][536]LogSlate: Took 0.022106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.31-14.38.25:894][637]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.12.31-14.38.25:894][637]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Gladiator' took 0.067
+[2019.12.31-14.38.25:956][637]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Player/Player_Character_BP] ([1] browsable assets)...
+[2019.12.31-14.38.26:089][637]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Player/Player_Character_BP.Player_Character_BP]
+[2019.12.31-14.38.26:089][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Player/Player_Character_BP]
+[2019.12.31-14.38.26:753][637]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP_Auto10DC2607B49956E56A88B52869B804297.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Autosaves/Game/BluePrints/Player/Player_Character_BP_Auto1.uasset'
+[2019.12.31-14.38.26:791][637]LogFileHelpers: Auto-saving content packages took 0.896
+[2019.12.31-14.49.30:365][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.12.31-14.49.30:365][222]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Gladiator' took 0.027
+[2019.12.31-14.49.30:366][222]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Player/Player_Character_BP] ([1] browsable assets)...
+[2019.12.31-14.49.30:366][222]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Player/Player_Character_BP]
+[2019.12.31-14.49.30:461][222]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP_Auto24FAFA656432DED310BDCB59B4096DC7B.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Autosaves/Game/BluePrints/Player/Player_Character_BP_Auto2.uasset'
+[2019.12.31-14.49.30:462][222]LogFileHelpers: Auto-saving content packages took 0.096
+[2019.12.31-14.52.36:648][676]LogRenderer: Reallocating scene render targets to support 1524x692 Format 10 NumSamples 1 (Frame:1).
+[2019.12.31-14.53.15:884][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.31-14.54.15:160][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.31-14.59.30:665][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.12.31-14.59.30:665][974]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Gladiator' took 0.029
+[2019.12.31-14.59.30:667][974]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Player/Player_Character_BP] ([1] browsable assets)...
+[2019.12.31-14.59.30:667][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Player/Player_Character_BP]
+[2019.12.31-14.59.30:784][974]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_BP_Auto3C9B7E80447F6A6B46AA36A85230307A8.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Autosaves/Game/BluePrints/Player/Player_Character_BP_Auto3.uasset'
+[2019.12.31-14.59.30:790][974]LogFileHelpers: Auto-saving content packages took 0.125
+[2019.12.31-15.22.54:123][762]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.31-15.22.54:123][762]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/NPCs/Enemy_Blueprint.Enemy_Blueprint
+[2019.12.31-15.24.02:758][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.12.31-15.24.02:758][618]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Gladiator' took 0.062
+[2019.12.31-15.24.02:759][618]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/NPCs/Enemy_Blueprint] ([1] browsable assets)...
+[2019.12.31-15.24.02:782][618]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/NPCs/Enemy_Blueprint.Enemy_Blueprint]
+[2019.12.31-15.24.02:782][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/NPCs/Enemy_Blueprint]
+[2019.12.31-15.24.02:956][618]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Enemy_Blueprint_Auto4FA8ADCB64F414DDF4CE1A8A815068DEE.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Autosaves/Game/BluePrints/NPCs/Enemy_Blueprint_Auto4.uasset'
+[2019.12.31-15.24.03:056][618]LogFileHelpers: Auto-saving content packages took 0.297
+[2019.12.31-15.27.12:772][939]LogEditorTransaction: Undo Resize Node
+[2019.12.31-15.31.43:626][361]LogRenderer: Reallocating scene render targets to support 1556x692 Format 10 NumSamples 1 (Frame:1).
+[2019.12.31-15.32.22:220][479]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.31-15.32.23:325][610]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.31-15.32.32:162][657]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.31-15.32.32:162][657]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/Player/Pick_ups/Health_Pickup.Health_Pickup
+[2019.12.31-15.32.32:447][657]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/Player/Pick_ups/Damage_Pickup.Damage_Pickup
+[2019.12.31-15.34.20:311][614]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.12.31-15.34.20:311][614]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Gladiator' took 0.067
+[2019.12.31-15.34.20:313][614]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/NPCs/Enemy_Blueprint] ([1] browsable assets)...
+[2019.12.31-15.34.20:339][614]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/NPCs/Enemy_Blueprint.Enemy_Blueprint]
+[2019.12.31-15.34.20:339][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/NPCs/Enemy_Blueprint]
+[2019.12.31-15.34.20:471][614]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Enemy_Blueprint_Auto51C67038546D3AE60BCE4549A88383E41.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Autosaves/Game/BluePrints/NPCs/Enemy_Blueprint_Auto5.uasset'
+[2019.12.31-15.34.20:475][614]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Player/Pick_ups/Health_Pickup] ([1] browsable assets)...
+[2019.12.31-15.34.20:505][614]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Player/Pick_ups/Health_Pickup.Health_Pickup]
+[2019.12.31-15.34.20:505][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Player/Pick_ups/Health_Pickup]
+[2019.12.31-15.34.20:560][614]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Health_Pickup_Auto5320B2EEE4A61C717624B6B9F049AC0E3.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Autosaves/Game/BluePrints/Player/Pick_ups/Health_Pickup_Auto5.uasset'
+[2019.12.31-15.34.20:561][614]LogFileHelpers: Auto-saving content packages took 0.249
+[2019.12.31-15.35.29:188][451]LogRenderer: Reallocating scene render targets to support 1592x692 Format 10 NumSamples 1 (Frame:1).
+[2019.12.31-15.38.50:252][574]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.31-15.38.50:252][574]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/NPC_Spawner/Mutant_Spawner.Mutant_Spawner
+[2019.12.31-15.41.54:498][336]LogRenderer: Reallocating scene render targets to support 1644x852 Format 10 NumSamples 1 (Frame:1).
+[2019.12.31-15.42.15:821][446]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/Game_Manager/Game_Manager.Game_Manager
+[2019.12.31-15.42.34:050][556]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/GameMode/BP_GladiatorGameMode.BP_GladiatorGameMode
+[2019.12.31-15.42.41:794][435]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/BluePrints/Menus/GameOver_BP.GameOver_BP
+[2019.12.31-15.42.50:803][417]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/BluePrints/Menus/MainMenu_BP.MainMenu_BP
+[2019.12.31-15.43.09:911][613]BlueprintLog: New page: Compile MainMenu_BP
+[2019.12.31-15.43.09:989][613]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2019.12.31-15.43.10:343][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Menus/MainMenu_BP" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Menus/MainMenu_BP.uasset" SILENT=true
+[2019.12.31-15.43.10:372][650]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/MainMenu_BPE0C038A7475DB5124FAFB8823E81C62B.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Menus/MainMenu_BP.uasset'
+[2019.12.31-15.43.22:211][970]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/NPCs/UI/interface/BPI_AI_UI.BPI_AI_UI
+[2019.12.31-15.43.25:235][283]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-15.43.29:262][759]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/BluePrints/NPCs/UI/AI_Healthbar.AI_Healthbar
+[2019.12.31-15.43.45:914][661]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/BluePrints/Player/UI/Player_Healthbar.Player_Healthbar
+[2019.12.31-15.44.29:806][746]BlueprintLog: New page: Compile Player_Healthbar
+[2019.12.31-15.44.29:867][746]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.12.31-15.44.30:254][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player/UI/Player_Healthbar" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/UI/Player_Healthbar.uasset" SILENT=true
+[2019.12.31-15.44.30:277][786]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_HealthbarD9E781844DDCE4766D9EBCBFF988D310.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/Player/UI/Player_Healthbar.uasset'
+[2019.12.31-15.45.17:246][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.12.31-15.45.17:246][134]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Gladiator' took 0.047
+[2019.12.31-15.45.17:248][134]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Game_Manager/Game_Manager] ([1] browsable assets)...
+[2019.12.31-15.45.17:248][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Game_Manager/Game_Manager]
+[2019.12.31-15.45.17:272][134]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Game_Manager_Auto60AAF2D9643C78DDA1244F689D667E3D1.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Autosaves/Game/BluePrints/Game_Manager/Game_Manager_Auto6.uasset'
+[2019.12.31-15.45.17:274][134]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Player/Pick_ups/Damage_Pickup] ([1] browsable assets)...
+[2019.12.31-15.45.17:282][134]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Player/Pick_ups/Damage_Pickup.Damage_Pickup]
+[2019.12.31-15.45.17:282][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Player/Pick_ups/Damage_Pickup]
+[2019.12.31-15.45.17:333][134]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Damage_Pickup_Auto6E241FCD7434D96F53A59F889E50062CB.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Autosaves/Game/BluePrints/Player/Pick_ups/Damage_Pickup_Auto6.uasset'
+[2019.12.31-15.45.17:334][134]LogFileHelpers: Auto-saving content packages took 0.087
+[2019.12.31-15.48.08:959][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/GameMode/BP_GladiatorGameMode" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/GameMode/BP_GladiatorGameMode.uasset" SILENT=true
+[2019.12.31-15.48.08:988][349]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/BP_GladiatorGameMode01E5EA684557613109D934A0E42D2BCB.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/BluePrints/GameMode/BP_GladiatorGameMode.uasset'
+[2019.12.31-15.50.11:077][213]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-15.50.11:087][213]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-15.50.47:608][203]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP
+[2019.12.31-15.50.47:650][203]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.12.31-15.50.48:183][203]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.31-15.50.48:191][203]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2019.12.31-15.50.48:519][203]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.12.31-15.50.49:099][203]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.12.31-15.55.27:177][221]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2019.12.31-15.55.27:178][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Gladiator" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Autosaves/Game/Maps/Gladiator_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.31-15.55.27:491][221]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Gladiator_Auto7FED937BD4FF13B086C91DA8B41270355.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Autosaves/Game/Maps/Gladiator_Auto7.umap'
+[2019.12.31-15.55.27:495][221]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Gladiator' took 0.403
+[2019.12.31-15.55.27:495][221]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.403
+[2019.12.31-15.55.27:497][221]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Game_Manager/Game_Manager] ([1] browsable assets)...
+[2019.12.31-15.55.27:497][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Game_Manager/Game_Manager]
+[2019.12.31-15.55.27:538][221]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Game_Manager_Auto7A823714B42CE277CBCCDDF9187AB7F94.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Autosaves/Game/BluePrints/Game_Manager/Game_Manager_Auto7.uasset'
+[2019.12.31-15.55.27:540][221]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP] ([1] browsable assets)...
+[2019.12.31-15.55.27:569][221]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP.Player_Character_Anim_BP]
+[2019.12.31-15.55.27:569][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP]
+[2019.12.31-15.55.28:242][221]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Player_Character_Anim_BP_Auto749741D6E405C5162C355FA8642F60C22.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Autosaves/Game/Mesh/PlayerMesh/Anim_BP/Player_Character_Anim_BP_Auto7.uasset'
+[2019.12.31-15.55.28:246][221]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/Menus/GameOver_BP] ([1] browsable assets)...
+[2019.12.31-15.55.28:246][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Menus/GameOver_BP]
+[2019.12.31-15.55.28:341][221]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/GameOver_BP_Auto78AD5DF7042C00603D73E7082A7C83955.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Autosaves/Game/BluePrints/Menus/GameOver_BP_Auto7.uasset'
+[2019.12.31-15.55.28:345][221]LogFileHelpers: Auto-saving content packages took 0.849
+[2019.12.31-15.57.07:500][917]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.31-15.57.07:561][917]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.57.07:561][917]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.31-15.57.07:568][917]LogPlayLevel: [PlayLevel] Compiling Game_Manager before play...
+[2019.12.31-15.57.07:857][917]LogPlayLevel: [PlayLevel] Compiling Game_Manager before play...
+[2019.12.31-15.57.07:857][917]LogPlayLevel: [PlayLevel]   Compiling Mutant_Spawner as a dependent...
+[2019.12.31-15.57.07:863][917]LogPlayLevel: [PlayLevel]   Compiling Enemy_Blueprint as a dependent...
+[2019.12.31-15.57.07:879][917]LogPlayLevel: [PlayLevel]   Compiling Player_Character_BP as a dependent...
+[2019.12.31-15.57.08:156][917]LogPlayLevel: [PlayLevel] Compiling Damage_Pickup before play...
+[2019.12.31-15.57.08:352][917]LogPlayLevel: [PlayLevel] Compiling Health_Pickup before play...
+[2019.12.31-15.57.08:599][917]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2019.12.31-15.57.08:599][917]LogPlayLevel: PlayLevel: Blueprint regeneration took 1037 ms (7 blueprints)
+[2019.12.31-15.57.08:626][917]PIE: New page: PIE session: Gladiator (31 Dec 2019 15:57:08)
+[2019.12.31-15.57.08:629][917]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.31-15.57.08:633][917]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.31-15.57.08:640][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006843s)
+[2019.12.31-15.57.08:642][917]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.31-15.57.08:642][917]LogPlayLevel: PIE: World Init took: (0.001830s)
+[2019.12.31-15.57.08:642][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gladiator.Gladiator to /Game/Maps/UEDPIE_0_Gladiator.Gladiator (0.009009s)
+[2019.12.31-15.57.08:699][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.12.31-15.57.08:717][917]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.31-15.57.08:730][917]LogInit: FAudioDevice initialized.
+[2019.12.31-15.57.08:741][917]LogLoad: Game class is 'BP_GladiatorGameMode_C'
+[2019.12.31-15.57.08:744][917]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gladiator.Gladiator up for play (max tick rate 0) at 2019.12.31-15.57.08
+[2019.12.31-15.57.08:745][917]LogWorld: Bringing up level for play took: 0.003658
+[2019.12.31-15.57.08:749][917]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2019.12.31-15.57.08:769][917]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.12.31-15.57.08:771][917]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Gladiator 0.564
+[2019.12.31-15.57.08:771][917]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.57.44:563][441]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.57.44:563][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-15.57.44:563][441]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.31-15.57.44:564][441]LogWorld: UWorld::CleanupWorld for Gladiator, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-15.57.44:577][441]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.31-15.57.44:577][441]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.57.44:634][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-15.57.44:666][441]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2019.12.31-15.57.44:683][442]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.12.31-15.57.48:518][896]LogEditorViewport: Clicking on Actor (LMB): Mutant_Spawner_C (Mutant_Spawner)
+[2019.12.31-15.57.51:583][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.31-15.57.53:615][503]LogEditorViewport: Clicking on Actor (LMB): Mutant_Spawner_C (Mutant_Spawner2)
+[2019.12.31-15.57.54:745][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.31-15.57.56:612][858]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.31-15.57.56:669][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.57.56:670][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.31-15.57.56:670][858]PIE: New page: PIE session: Gladiator (31 Dec 2019 15:57:56)
+[2019.12.31-15.57.56:670][858]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.31-15.57.56:673][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003262s)
+[2019.12.31-15.57.56:674][858]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.31-15.57.56:674][858]LogPlayLevel: PIE: World Init took: (0.000988s)
+[2019.12.31-15.57.56:674][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gladiator.Gladiator to /Game/Maps/UEDPIE_0_Gladiator.Gladiator (0.004356s)
+[2019.12.31-15.57.56:737][858]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2019.12.31-15.57.56:753][858]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.31-15.57.56:766][858]LogInit: FAudioDevice initialized.
+[2019.12.31-15.57.56:772][858]LogLoad: Game class is 'BP_GladiatorGameMode_C'
+[2019.12.31-15.57.56:773][858]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gladiator.Gladiator up for play (max tick rate 0) at 2019.12.31-15.57.56
+[2019.12.31-15.57.56:774][858]LogWorld: Bringing up level for play took: 0.002168
+[2019.12.31-15.57.56:776][858]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2019.12.31-15.57.56:779][858]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Gladiator 0.572
+[2019.12.31-15.57.56:779][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.57.59:919][232]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.57.59:919][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-15.57.59:919][232]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.31-15.57.59:919][232]LogWorld: UWorld::CleanupWorld for Gladiator, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-15.57.59:929][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.31-15.57.59:929][232]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.57.59:980][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-15.57.59:983][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.12.31-15.58.00:144][234]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.12.31-15.58.00:731][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.31-15.58.00:822][315]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.31-15.58.00:877][315]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.58.00:877][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.31-15.58.00:877][315]PIE: New page: PIE session: Gladiator (31 Dec 2019 15:58:00)
+[2019.12.31-15.58.00:877][315]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.31-15.58.00:880][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003084s)
+[2019.12.31-15.58.00:881][315]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.31-15.58.00:881][315]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2019.12.31-15.58.00:881][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gladiator.Gladiator to /Game/Maps/UEDPIE_0_Gladiator.Gladiator (0.003932s)
+[2019.12.31-15.58.00:926][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.12.31-15.58.00:942][315]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.31-15.58.00:954][315]LogInit: FAudioDevice initialized.
+[2019.12.31-15.58.00:960][315]LogLoad: Game class is 'BP_GladiatorGameMode_C'
+[2019.12.31-15.58.00:961][315]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gladiator.Gladiator up for play (max tick rate 0) at 2019.12.31-15.58.00
+[2019.12.31-15.58.00:962][315]LogWorld: Bringing up level for play took: 0.002118
+[2019.12.31-15.58.00:964][315]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2019.12.31-15.58.00:967][315]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Gladiator 0.76
+[2019.12.31-15.58.00:967][315]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.58.05:711][565]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.31-15.58.05:711][565]LogBlueprintUserMessages: [Player_Character_BP_C_0] 90
+[2019.12.31-15.58.08:059][572]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.31-15.58.08:059][572]LogBlueprintUserMessages: [Player_Character_BP_C_0] 80
+[2019.12.31-15.58.10:410][579]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.31-15.58.10:410][579]LogBlueprintUserMessages: [Player_Character_BP_C_0] 70
+[2019.12.31-15.58.12:747][586]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.31-15.58.12:747][586]LogBlueprintUserMessages: [Player_Character_BP_C_0] 60
+[2019.12.31-15.58.15:096][593]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.31-15.58.15:096][593]LogBlueprintUserMessages: [Player_Character_BP_C_0] 50
+[2019.12.31-15.58.17:432][600]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.31-15.58.17:432][600]LogBlueprintUserMessages: [Player_Character_BP_C_0] 40
+[2019.12.31-15.58.19:775][607]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.31-15.58.19:776][607]LogBlueprintUserMessages: [Player_Character_BP_C_0] 30
+[2019.12.31-15.58.19:833][610]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] NPC: Hit Shield
+[2019.12.31-15.58.19:833][610]LogBlueprintUserMessages: [Player_Character_BP_C_0] 20
+[2019.12.31-15.58.22:077][866]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.58.22:077][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-15.58.22:077][866]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.31-15.58.22:077][866]LogWorld: UWorld::CleanupWorld for Gladiator, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-15.58.22:087][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.31-15.58.22:087][866]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.58.22:136][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-15.58.22:140][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.12.31-15.58.22:189][870]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.12.31-15.58.23:124][981]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.31-15.58.23:181][981]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.58.23:181][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.31-15.58.23:181][981]PIE: New page: PIE session: Gladiator (31 Dec 2019 15:58:23)
+[2019.12.31-15.58.23:181][981]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.31-15.58.23:185][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003223s)
+[2019.12.31-15.58.23:185][981]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.31-15.58.23:186][981]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2019.12.31-15.58.23:186][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gladiator.Gladiator to /Game/Maps/UEDPIE_0_Gladiator.Gladiator (0.004254s)
+[2019.12.31-15.58.23:234][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.12.31-15.58.23:250][981]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.31-15.58.23:262][981]LogInit: FAudioDevice initialized.
+[2019.12.31-15.58.23:268][981]LogLoad: Game class is 'BP_GladiatorGameMode_C'
+[2019.12.31-15.58.23:270][981]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gladiator.Gladiator up for play (max tick rate 0) at 2019.12.31-15.58.23
+[2019.12.31-15.58.23:271][981]LogWorld: Bringing up level for play took: 0.002144
+[2019.12.31-15.58.23:272][981]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2019.12.31-15.58.23:276][981]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Gladiator 1.069
+[2019.12.31-15.58.23:276][981]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.58.27:308][461]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.58.27:308][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-15.58.27:308][461]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.31-15.58.27:308][461]LogWorld: UWorld::CleanupWorld for Gladiator, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-15.58.27:319][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.31-15.58.27:319][461]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.58.27:371][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-15.58.27:375][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.12.31-15.58.27:413][463]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.12.31-15.58.28:272][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.31-15.58.28:347][575]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.31-15.58.28:402][575]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.58.28:402][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.31-15.58.28:402][575]PIE: New page: PIE session: Gladiator (31 Dec 2019 15:58:28)
+[2019.12.31-15.58.28:402][575]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.31-15.58.28:405][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003347s)
+[2019.12.31-15.58.28:406][575]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.31-15.58.28:406][575]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2019.12.31-15.58.28:406][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gladiator.Gladiator to /Game/Maps/UEDPIE_0_Gladiator.Gladiator (0.004202s)
+[2019.12.31-15.58.28:452][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.12.31-15.58.28:468][575]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.31-15.58.28:480][575]LogInit: FAudioDevice initialized.
+[2019.12.31-15.58.28:485][575]LogLoad: Game class is 'BP_GladiatorGameMode_C'
+[2019.12.31-15.58.28:487][575]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gladiator.Gladiator up for play (max tick rate 0) at 2019.12.31-15.58.28
+[2019.12.31-15.58.28:488][575]LogWorld: Bringing up level for play took: 0.002145
+[2019.12.31-15.58.28:489][575]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2019.12.31-15.58.28:492][575]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Gladiator 0.286
+[2019.12.31-15.58.28:493][575]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.58.37:548][659]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.58.37:549][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-15.58.37:549][659]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.31-15.58.37:549][659]LogWorld: UWorld::CleanupWorld for Gladiator, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-15.58.37:563][659]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.31-15.58.37:563][659]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.58.37:617][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-15.58.37:621][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.12.31-15.58.37:649][662]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.12.31-15.58.38:920][814]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.31-15.58.38:978][814]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.58.38:978][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.31-15.58.38:978][814]PIE: New page: PIE session: Gladiator (31 Dec 2019 15:58:38)
+[2019.12.31-15.58.38:978][814]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.31-15.58.38:981][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003273s)
+[2019.12.31-15.58.38:982][814]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.31-15.58.38:982][814]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2019.12.31-15.58.38:982][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gladiator.Gladiator to /Game/Maps/UEDPIE_0_Gladiator.Gladiator (0.004168s)
+[2019.12.31-15.58.39:028][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.12.31-15.58.39:043][814]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.31-15.58.39:055][814]LogInit: FAudioDevice initialized.
+[2019.12.31-15.58.39:063][814]LogLoad: Game class is 'BP_GladiatorGameMode_C'
+[2019.12.31-15.58.39:065][814]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gladiator.Gladiator up for play (max tick rate 0) at 2019.12.31-15.58.39
+[2019.12.31-15.58.39:066][814]LogWorld: Bringing up level for play took: 0.002177
+[2019.12.31-15.58.39:067][814]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2019.12.31-15.58.39:070][814]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Gladiator 0.864
+[2019.12.31-15.58.39:070][814]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.58.41:535][107]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.58.41:536][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-15.58.41:536][107]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.31-15.58.41:536][107]LogWorld: UWorld::CleanupWorld for Gladiator, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-15.58.41:553][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.31-15.58.41:553][107]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.58.41:604][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-15.58.41:607][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.12.31-15.58.41:648][109]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.12.31-15.58.42:098][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.31-15.58.42:156][170]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.31-15.58.42:213][170]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.58.42:213][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.31-15.58.42:213][170]PIE: New page: PIE session: Gladiator (31 Dec 2019 15:58:42)
+[2019.12.31-15.58.42:213][170]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.31-15.58.42:216][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003432s)
+[2019.12.31-15.58.42:217][170]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.31-15.58.42:217][170]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2019.12.31-15.58.42:217][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gladiator.Gladiator to /Game/Maps/UEDPIE_0_Gladiator.Gladiator (0.004419s)
+[2019.12.31-15.58.42:261][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.12.31-15.58.42:277][170]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.31-15.58.42:289][170]LogInit: FAudioDevice initialized.
+[2019.12.31-15.58.42:294][170]LogLoad: Game class is 'BP_GladiatorGameMode_C'
+[2019.12.31-15.58.42:296][170]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gladiator.Gladiator up for play (max tick rate 0) at 2019.12.31-15.58.42
+[2019.12.31-15.58.42:297][170]LogWorld: Bringing up level for play took: 0.002181
+[2019.12.31-15.58.42:299][170]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2019.12.31-15.58.42:302][170]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Gladiator 0.095
+[2019.12.31-15.58.42:302][170]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.59.08:910][364]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.59.08:910][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-15.59.08:910][364]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.31-15.59.08:910][364]LogWorld: UWorld::CleanupWorld for Gladiator, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-15.59.08:956][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.31-15.59.08:956][364]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.59.09:010][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-15.59.09:014][364]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.12.31-15.59.09:027][365]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.12.31-15.59.10:197][493]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.31-15.59.10:252][493]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.59.10:252][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.31-15.59.10:252][493]PIE: New page: PIE session: Gladiator (31 Dec 2019 15:59:10)
+[2019.12.31-15.59.10:252][493]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.31-15.59.10:256][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003781s)
+[2019.12.31-15.59.10:257][493]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.31-15.59.10:257][493]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2019.12.31-15.59.10:257][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gladiator.Gladiator to /Game/Maps/UEDPIE_0_Gladiator.Gladiator (0.004624s)
+[2019.12.31-15.59.10:302][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.12.31-15.59.10:319][493]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.31-15.59.10:331][493]LogInit: FAudioDevice initialized.
+[2019.12.31-15.59.10:341][493]LogLoad: Game class is 'BP_GladiatorGameMode_C'
+[2019.12.31-15.59.10:342][493]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gladiator.Gladiator up for play (max tick rate 0) at 2019.12.31-15.59.10
+[2019.12.31-15.59.10:343][493]LogWorld: Bringing up level for play took: 0.002209
+[2019.12.31-15.59.10:345][493]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2019.12.31-15.59.10:348][493]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Gladiator 0.141
+[2019.12.31-15.59.10:348][493]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-15.59.13:953][923]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 140
+[2019.12.31-15.59.16:553][235]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 130
+[2019.12.31-15.59.18:128][424]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 120
+[2019.12.31-15.59.20:979][766]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 110
+[2019.12.31-15.59.20:987][767]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 100
+[2019.12.31-15.59.22:395][936]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 90
+[2019.12.31-15.59.24:670][209]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 80
+[2019.12.31-15.59.26:387][415]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 70
+[2019.12.31-15.59.28:770][696]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 60
+[2019.12.31-15.59.30:745][933]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 50
+[2019.12.31-15.59.34:637][400]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 40
+[2019.12.31-15.59.35:945][557]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 30
+[2019.12.31-15.59.38:571][872]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 20
+[2019.12.31-15.59.40:755][134]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 10
+[2019.12.31-15.59.44:971][640]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] 0
+[2019.12.31-15.59.44:971][640]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] Enemy_Dead
+[2019.12.31-15.59.46:970][880]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.31-15.59.50:620][159]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] -10
+[2019.12.31-15.59.50:620][159]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] Enemy_Dead
+[2019.12.31-15.59.50:620][159]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] -20
+[2019.12.31-15.59.50:620][159]LogBlueprintUserMessages: [Enemy_Blueprint_C_0] Enemy_Dead
+[2019.12.31-15.59.56:319][176]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] NPC: Hit Shield
+[2019.12.31-15.59.56:320][176]LogBlueprintUserMessages: [Player_Character_BP_C_0] 80
+[2019.12.31-16.00.10:639][235]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] NPC: Hit Shield
+[2019.12.31-16.00.10:639][235]LogBlueprintUserMessages: [Player_Character_BP_C_0] 60
+[2019.12.31-16.00.12:973][242]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] NPC: Hit Shield
+[2019.12.31-16.00.12:973][242]LogBlueprintUserMessages: [Player_Character_BP_C_0] 40
+[2019.12.31-16.00.17:612][368]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] NPC: Hit Shield
+[2019.12.31-16.00.17:612][368]LogBlueprintUserMessages: [Player_Character_BP_C_0] 20
+[2019.12.31-16.00.20:183][401]LogBlueprintUserMessages: [Enemy_Blueprint_C_1] NPC: Hit Shield
+[2019.12.31-16.00.20:183][401]LogBlueprintUserMessages: [Player_Character_BP_C_0] 0
+[2019.12.31-16.00.41:106][914]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-16.00.41:107][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-16.00.41:107][914]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.31-16.00.41:107][914]LogWorld: UWorld::CleanupWorld for Gladiator, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.00.41:120][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.31-16.00.41:120][914]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-16.00.41:172][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-16.00.41:176][914]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.12.31-16.00.41:206][917]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.12.31-16.00.46:956][604]Cmd: TRANSACTION UNDO
+[2019.12.31-16.00.46:956][604]LogEditorTransaction: Undo Edit Enemies to Spawn
+[2019.12.31-16.00.47:012][604]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.31-16.00.48:229][740]Cmd: TRANSACTION UNDO
+[2019.12.31-16.00.48:229][740]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.31-16.00.48:286][740]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.31-16.00.50:081][953]Cmd: TRANSACTION UNDO
+[2019.12.31-16.00.50:081][953]LogEditorTransaction: Undo Edit Enemies to Spawn
+[2019.12.31-16.00.50:137][953]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.31-16.00.51:407][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.31-16.00.51:493][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Gladiator" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Maps/Gladiator.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.31-16.00.51:540][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.12.31-16.00.51:779][113]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Gladiator6D3505F84B528462A54D8EBED82AFB3E.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Maps/Gladiator.umap'
+[2019.12.31-16.00.51:844][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Gladiator_BuiltData" FILE="E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Maps/Gladiator_BuiltData.uasset" SILENT=true
+[2019.12.31-16.00.52:096][113]LogSavePackage: Moving 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Saved/Gladiator_BuiltDataA451DEF94777B044B2E0D0A1FCA96EFF.tmp' to 'E:/Unreal_Project/Gladiator/Gladiators/Gladiator/Content/Maps/Gladiator_BuiltData.uasset'
+[2019.12.31-16.01.21:332][452]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.31-16.01.21:394][452]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-16.01.21:394][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.31-16.01.21:394][452]PIE: New page: PIE session: Gladiator (31 Dec 2019 16:01:21)
+[2019.12.31-16.01.21:395][452]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.31-16.01.21:398][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003256s)
+[2019.12.31-16.01.21:399][452]LogAIModule: Creating AISystem for world Gladiator
+[2019.12.31-16.01.21:399][452]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2019.12.31-16.01.21:399][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gladiator.Gladiator to /Game/Maps/UEDPIE_0_Gladiator.Gladiator (0.004203s)
+[2019.12.31-16.01.21:447][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.12.31-16.01.21:463][452]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.31-16.01.21:476][452]LogInit: FAudioDevice initialized.
+[2019.12.31-16.01.21:483][452]LogLoad: Game class is 'BP_GladiatorGameMode_C'
+[2019.12.31-16.01.21:484][452]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gladiator.Gladiator up for play (max tick rate 0) at 2019.12.31-16.01.21
+[2019.12.31-16.01.21:485][452]LogWorld: Bringing up level for play took: 0.002177
+[2019.12.31-16.01.21:487][452]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2019.12.31-16.01.21:490][452]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Gladiator -0.717
+[2019.12.31-16.01.21:490][452]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-16.02.04:816][513]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-16.02.04:816][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-16.02.04:816][513]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gladiator
+[2019.12.31-16.02.04:817][513]LogWorld: UWorld::CleanupWorld for Gladiator, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.02.04:827][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.31-16.02.04:827][513]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Gladiator.Gladiator:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator' with GeneratedClass '/Game/Maps/Gladiator.Gladiator_C' with ClassGeneratedBy '/Game/Maps/Gladiator.Gladiator:PersistentLevel.Gladiator'
+[2019.12.31-16.02.04:882][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.31-16.02.04:886][513]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.12.31-16.02.04:939][515]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.12.31-16.02.08:098][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.31-16.02.13:354][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.31-16.03.07:472][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.31-16.03.36:117][988]Cmd: DELETE
+[2019.12.31-16.03.36:117][988]Cmd: ACTOR DELETE
+[2019.12.31-16.03.36:185][988]LogEditorActor: Deleted Actor: Mutant_Spawner_C
+[2019.12.31-16.03.36:241][988]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2019.12.31-16.03.36:241][988]LogEditorActor: Deleted 1 Actors (0.124 secs)
+[2019.12.31-16.03.37:040][ 82]LogEditorViewport: Clicking on Actor (LMB): Enemy_Blueprint_C (Enemy_Blueprint)
+[2019.12.31-16.03.37:541][135]Cmd: DELETE
+[2019.12.31-16.03.37:541][135]Cmd: ACTOR DELETE
+[2019.12.31-16.03.37:543][135]LogEditorActor: Deleted Actor: Enemy_Blueprint_C
+[2019.12.31-16.03.37:588][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.12.31-16.03.37:588][135]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2019.12.31-16.03.38:546][249]LogEditorViewport: Clicking on Actor (LMB): BP_Colosseum_C (BP_Colosseum)
+[2019.12.31-16.03.39:803][387]LogEditorViewport: Clicking on Actor (LMB): Player_Character_BP_C (Player_Character_BP)
+[2019.12.31-16.03.40:671][452]Cmd: DELETE
+[2019.12.31-16.03.40:671][452]Cmd: ACTOR DELETE
+[2019.12.31-16.03.40:673][452]LogEditorActor: Deleted Actor: Player_Character_BP_C
+[2019.12.31-16.03.40:735][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.12.31-16.03.40:735][452]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2019.12.31-16.03.41:650][561]LogEditorViewport: Clicking on Actor (LMB): Mutant_Spawner_C (Mutant_Spawner)
+[2019.12.31-16.03.43:296][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.31-16.04.20:870][463]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.31-16.05.36:033][842]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.31-16.05.36:045][842]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.31-16.05.38:522][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2019.12.31-16.05.44:647][ 87]LogSlate: Window 'Save Content' being destroyed
+[2019.12.31-16.05.44:827][ 87]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.44:900][ 87]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.31-16.05.44:900][ 87]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.44:962][ 87]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.31-16.05.44:962][ 87]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.45:016][ 87]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.31-16.05.45:016][ 87]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.45:072][ 87]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.31-16.05.45:072][ 87]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.45:107][ 87]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.31-16.05.45:107][ 87]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.45:142][ 87]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.31-16.05.45:142][ 87]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.45:179][ 87]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.45:186][ 87]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.45:214][ 87]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.45:221][ 87]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.45:367][ 87]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.45:528][ 87]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.45:538][ 87]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.45:569][ 87]LogSlate: Window 'Player_Healthbar' being destroyed
+[2019.12.31-16.05.45:573][ 87]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.45:580][ 87]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.45:603][ 87]LogSlate: Window 'Gladiator - Unreal Editor' being destroyed
+[2019.12.31-16.05.45:736][ 88]Cmd: QUIT_EDITOR
+[2019.12.31-16.05.46:529][ 88]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.31-16.05.46:569][ 88]LogExit: Preparing to exit.
+[2019.12.31-16.05.47:446][ 88]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.47:451][ 88]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.47:456][ 88]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.47:460][ 88]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.47:465][ 88]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.47:469][ 88]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.47:474][ 88]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.47:478][ 88]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.47:482][ 88]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.47:487][ 88]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.47:544][ 88]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.31-16.05.47:557][ 88]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.31-16.05.47:559][ 88]LogExit: Editor shut down
+[2019.12.31-16.05.47:560][ 88]LogExit: Transaction tracking system shut down
+[2019.12.31-16.05.48:258][ 88]LogExit: Object subsystem successfully closed.
+[2019.12.31-16.05.48:277][ 88]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.31-16.05.48:308][ 88]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (684)
+[2019.12.31-16.05.48:308][ 88]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (682)
+[2019.12.31-16.05.48:308][ 88]LogModuleManager: Shutting down and abandoning module Voice (680)
+[2019.12.31-16.05.48:308][ 88]LogModuleManager: Shutting down and abandoning module PinnedCommandList (678)
+[2019.12.31-16.05.48:308][ 88]LogModuleManager: Shutting down and abandoning module SkeletonEditor (676)
+[2019.12.31-16.05.48:308][ 88]LogModuleManager: Shutting down and abandoning module SequencerWidgets (674)
+[2019.12.31-16.05.48:308][ 88]LogModuleManager: Shutting down and abandoning module BlueprintGraph (672)
+[2019.12.31-16.05.48:308][ 88]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (670)
+[2019.12.31-16.05.48:308][ 88]LogModuleManager: Shutting down and abandoning module SceneOutliner (668)
+[2019.12.31-16.05.48:309][ 88]LogModuleManager: Shutting down and abandoning module AddContentDialog (666)
+[2019.12.31-16.05.48:311][ 88]LogModuleManager: Shutting down and abandoning module WidgetCarousel (665)
+[2019.12.31-16.05.48:311][ 88]LogModuleManager: Shutting down and abandoning module EditorWidgets (662)
+[2019.12.31-16.05.48:311][ 88]LogModuleManager: Shutting down and abandoning module CollectionManager (660)
+[2019.12.31-16.05.48:311][ 88]LogModuleManager: Shutting down and abandoning module StatsViewer (658)
+[2019.12.31-16.05.48:311][ 88]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (656)
+[2019.12.31-16.05.48:311][ 88]LogModuleManager: Shutting down and abandoning module FoliageEdit (654)
+[2019.12.31-16.05.48:311][ 88]LogModuleManager: Shutting down and abandoning module LandscapeEditor (652)
+[2019.12.31-16.05.48:311][ 88]LogModuleManager: Shutting down and abandoning module MeshPaintMode (650)
+[2019.12.31-16.05.48:311][ 88]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (648)
+[2019.12.31-16.05.48:311][ 88]LogModuleManager: Shutting down and abandoning module ActorPickerMode (646)
+[2019.12.31-16.05.48:311][ 88]LogModuleManager: Shutting down and abandoning module GeometryMode (644)
+[2019.12.31-16.05.48:311][ 88]LogModuleManager: Shutting down and abandoning module TextureAlignMode (642)
+[2019.12.31-16.05.48:311][ 88]LogModuleManager: Shutting down and abandoning module BspMode (640)
+[2019.12.31-16.05.48:311][ 88]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (638)
+[2019.12.31-16.05.48:311][ 88]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (636)
+[2019.12.31-16.05.48:311][ 88]LogModuleManager: Shutting down and abandoning module AutomationWorker (634)
+[2019.12.31-16.05.48:311][ 88]LogModuleManager: Shutting down and abandoning module OculusMR (632)
+[2019.12.31-16.05.48:311][ 88]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (630)
+[2019.12.31-16.05.48:311][ 88]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (628)
+[2019.12.31-16.05.48:311][ 88]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (626)
+[2019.12.31-16.05.48:311][ 88]LogModuleManager: Shutting down and abandoning module PlacementMode (625)
+[2019.12.31-16.05.48:311][ 88]LogModuleManager: Shutting down and abandoning module MaterialEditor (624)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (620)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (618)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (616)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (614)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (612)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module WebMMedia (610)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (608)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (606)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module SequenceRecorder (605)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (602)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (600)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (598)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (596)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (594)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (592)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (590)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (588)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (586)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (584)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (582)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module CharacterAI (580)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module SmartSnapping (578)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module SessionServices (576)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module MeshPaint (574)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module ViewportSnapping (572)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module ViewportInteraction (570)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module ClothPainter (568)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (567)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module LogVisualizer (564)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module IntroTutorials (562)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (561)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (558)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (556)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (554)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (552)
+[2019.12.31-16.05.48:312][ 88]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (551)
+[2019.12.31-16.05.49:751][ 88]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (548)
+[2019.12.31-16.05.49:751][ 88]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (546)
+[2019.12.31-16.05.49:751][ 88]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (544)
+[2019.12.31-16.05.49:751][ 88]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (542)
+[2019.12.31-16.05.49:751][ 88]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (540)
+[2019.12.31-16.05.49:751][ 88]LogModuleManager: Shutting down and abandoning module InputBindingEditor (538)
+[2019.12.31-16.05.49:751][ 88]LogModuleManager: Shutting down and abandoning module MergeActors (536)
+[2019.12.31-16.05.49:751][ 88]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (534)
+[2019.12.31-16.05.49:752][ 88]LogModuleManager: Shutting down and abandoning module LocalizationService (533)
+[2019.12.31-16.05.49:752][ 88]LogModuleManager: Shutting down and abandoning module HardwareTargeting (530)
+[2019.12.31-16.05.49:752][ 88]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (528)
+[2019.12.31-16.05.49:752][ 88]LogModuleManager: Shutting down and abandoning module UndoHistory (526)
+[2019.12.31-16.05.49:752][ 88]LogModuleManager: Shutting down and abandoning module XmlParser (524)
+[2019.12.31-16.05.49:753][ 88]LogModuleManager: Shutting down and abandoning module Blutility (522)
+[2019.12.31-16.05.49:753][ 88]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (520)
+[2019.12.31-16.05.49:753][ 88]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (519)
+[2019.12.31-16.05.49:754][ 88]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (516)
+[2019.12.31-16.05.49:754][ 88]LogModuleManager: Shutting down and abandoning module SettingsEditor (514)
+[2019.12.31-16.05.49:754][ 88]LogModuleManager: Shutting down and abandoning module ProjectLauncher (512)
+[2019.12.31-16.05.49:754][ 88]LogModuleManager: Shutting down and abandoning module SessionFrontend (510)
+[2019.12.31-16.05.49:755][ 88]LogModuleManager: Shutting down and abandoning module ProfilerClient (508)
+[2019.12.31-16.05.49:755][ 88]LogModuleManager: Shutting down and abandoning module DeviceManager (506)
+[2019.12.31-16.05.49:755][ 88]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (505)
+[2019.12.31-16.05.49:800][ 88]LogModuleManager: Shutting down and abandoning module AutomationController (502)
+[2019.12.31-16.05.49:800][ 88]LogModuleManager: Shutting down and abandoning module AutomationWindow (500)
+[2019.12.31-16.05.49:800][ 88]LogModuleManager: Shutting down and abandoning module Layers (498)
+[2019.12.31-16.05.49:800][ 88]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (496)
+[2019.12.31-16.05.49:800][ 88]LogModuleManager: Shutting down and abandoning module DetailCustomizations (494)
+[2019.12.31-16.05.49:801][ 88]LogModuleManager: Shutting down and abandoning module PackagesDialog (492)
+[2019.12.31-16.05.49:803][ 88]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (490)
+[2019.12.31-16.05.49:803][ 88]LogModuleManager: Shutting down and abandoning module Persona (488)
+[2019.12.31-16.05.49:803][ 88]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (487)
+[2019.12.31-16.05.49:803][ 88]LogModuleManager: Shutting down and abandoning module AnimGraph (485)
+[2019.12.31-16.05.49:803][ 88]LogModuleManager: Shutting down and abandoning module Kismet (482)
+[2019.12.31-16.05.49:847][ 88]LogModuleManager: Shutting down and abandoning module KismetWidgets (481)
+[2019.12.31-16.05.49:847][ 88]LogModuleManager: Shutting down and abandoning module GraphEditor (478)
+[2019.12.31-16.05.49:847][ 88]LogModuleManager: Shutting down and abandoning module StructViewer (476)
+[2019.12.31-16.05.49:847][ 88]LogModuleManager: Shutting down and abandoning module ClassViewer (474)
+[2019.12.31-16.05.49:847][ 88]LogModuleManager: Shutting down and abandoning module Toolbox (472)
+[2019.12.31-16.05.49:847][ 88]LogModuleManager: Shutting down and abandoning module DesktopPlatform (471)
+[2019.12.31-16.05.49:847][ 88]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.12.31-16.05.49:847][ 88]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.12.31-16.05.49:847][ 88]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.12.31-16.05.49:848][ 88]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.12.31-16.05.49:848][ 88]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.12.31-16.05.49:848][ 88]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.12.31-16.05.49:848][ 88]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.12.31-16.05.49:848][ 88]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.12.31-16.05.49:848][ 88]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.12.31-16.05.49:848][ 88]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.12.31-16.05.49:848][ 88]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.12.31-16.05.49:848][ 88]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.12.31-16.05.49:848][ 88]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.12.31-16.05.49:848][ 88]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.12.31-16.05.49:848][ 88]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.12.31-16.05.49:848][ 88]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.12.31-16.05.49:848][ 88]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.12.31-16.05.49:849][ 88]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.12.31-16.05.49:849][ 88]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.12.31-16.05.49:849][ 88]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (430)
+[2019.12.31-16.05.49:852][ 88]LogModuleManager: Shutting down and abandoning module ProfilerService (428)
+[2019.12.31-16.05.50:100][ 88]LogModuleManager: Shutting down and abandoning module TaskGraph (426)
+[2019.12.31-16.05.50:101][ 88]LogModuleManager: Shutting down and abandoning module ScreenshotTools (424)
+[2019.12.31-16.05.50:101][ 88]LogModuleManager: Shutting down and abandoning module SteamVRController (422)
+[2019.12.31-16.05.50:101][ 88]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (420)
+[2019.12.31-16.05.50:101][ 88]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (418)
+[2019.12.31-16.05.50:101][ 88]LogModuleManager: Shutting down and abandoning module OculusEditor (416)
+[2019.12.31-16.05.50:101][ 88]LogModuleManager: Shutting down and abandoning module OculusInput (414)
+[2019.12.31-16.05.50:101][ 88]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (412)
+[2019.12.31-16.05.50:101][ 88]LogModuleManager: Shutting down and abandoning module EditableMesh (410)
+[2019.12.31-16.05.50:101][ 88]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (408)
+[2019.12.31-16.05.50:101][ 88]LogModuleManager: Shutting down and abandoning module CableComponent (406)
+[2019.12.31-16.05.50:101][ 88]LogModuleManager: Shutting down and abandoning module AudioCapture (404)
+[2019.12.31-16.05.50:101][ 88]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (402)
+[2019.12.31-16.05.50:101][ 88]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (400)
+[2019.12.31-16.05.50:102][ 88]LogModuleManager: Shutting down and abandoning module AppleImageUtils (398)
+[2019.12.31-16.05.50:102][ 88]LogModuleManager: Shutting down and abandoning module AndroidPermission (396)
+[2019.12.31-16.05.50:102][ 88]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (394)
+[2019.12.31-16.05.50:102][ 88]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (392)
+[2019.12.31-16.05.50:102][ 88]LogModuleManager: Shutting down and abandoning module MediaCompositing (390)
+[2019.12.31-16.05.50:102][ 88]LogModuleManager: Shutting down and abandoning module ImgMedia (388)
+[2019.12.31-16.05.50:102][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (386)
+[2019.12.31-16.05.50:102][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (384)
+[2019.12.31-16.05.50:102][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (382)
+[2019.12.31-16.05.50:102][ 88]LogModuleManager: Shutting down and abandoning module HTML5Networking (380)
+[2019.12.31-16.05.50:102][ 88]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (378)
+[2019.12.31-16.05.50:102][ 88]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (376)
+[2019.12.31-16.05.50:102][ 88]LogModuleManager: Shutting down and abandoning module BackChannel (374)
+[2019.12.31-16.05.50:102][ 88]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (372)
+[2019.12.31-16.05.50:102][ 88]LogModuleManager: Shutting down and abandoning module AutomationUtils (370)
+[2019.12.31-16.05.50:102][ 88]LogModuleManager: Shutting down and abandoning module AlembicImporter (368)
+[2019.12.31-16.05.50:103][ 88]LogModuleManager: Shutting down and abandoning module AlembicLibrary (367)
+[2019.12.31-16.05.50:103][ 88]LogModuleManager: Shutting down and abandoning module GeometryCache (366)
+[2019.12.31-16.05.50:103][ 88]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (365)
+[2019.12.31-16.05.50:103][ 88]LogModuleManager: Shutting down and abandoning module VariantManagerContent (360)
+[2019.12.31-16.05.50:103][ 88]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (358)
+[2019.12.31-16.05.50:103][ 88]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (356)
+[2019.12.31-16.05.50:103][ 88]LogModuleManager: Shutting down and abandoning module PluginBrowser (354)
+[2019.12.31-16.05.50:103][ 88]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (352)
+[2019.12.31-16.05.50:104][ 88]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (350)
+[2019.12.31-16.05.50:104][ 88]LogModuleManager: Shutting down and abandoning module CurveEditorTools (348)
+[2019.12.31-16.05.50:104][ 88]LogModuleManager: Shutting down and abandoning module CurveEditor (347)
+[2019.12.31-16.05.50:104][ 88]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (344)
+[2019.12.31-16.05.50:104][ 88]LogModuleManager: Shutting down and abandoning module CryptoKeys (342)
+[2019.12.31-16.05.50:104][ 88]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (340)
+[2019.12.31-16.05.50:104][ 88]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (338)
+[2019.12.31-16.05.50:104][ 88]LogModuleManager: Shutting down and abandoning module UObjectPlugin (336)
+[2019.12.31-16.05.50:104][ 88]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (334)
+[2019.12.31-16.05.50:105][ 88]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (332)
+[2019.12.31-16.05.50:105][ 88]LogModuleManager: Shutting down and abandoning module GitSourceControl (330)
+[2019.12.31-16.05.50:105][ 88]LogModuleManager: Shutting down and abandoning module SourceControl (329)
+[2019.12.31-16.05.50:105][ 88]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (326)
+[2019.12.31-16.05.50:105][ 88]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (324)
+[2019.12.31-16.05.50:105][ 88]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (322)
+[2019.12.31-16.05.50:105][ 88]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (320)
+[2019.12.31-16.05.50:105][ 88]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (318)
+[2019.12.31-16.05.50:106][ 88]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (316)
+[2019.12.31-16.05.50:106][ 88]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (314)
+[2019.12.31-16.05.50:106][ 88]LogModuleManager: Shutting down and abandoning module Paper2DEditor (312)
+[2019.12.31-16.05.50:106][ 88]LogModuleManager: Shutting down and abandoning module Gladiator (310)
+[2019.12.31-16.05.50:106][ 88]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.12.31-16.05.50:106][ 88]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.12.31-16.05.50:106][ 88]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.12.31-16.05.50:106][ 88]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.12.31-16.05.50:106][ 88]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.12.31-16.05.50:106][ 88]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.12.31-16.05.50:208][ 88]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.12.31-16.05.50:309][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.12.31-16.05.50:309][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.12.31-16.05.50:309][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.12.31-16.05.50:309][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.12.31-16.05.50:309][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.12.31-16.05.50:310][ 88]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.31-16.05.50:311][ 88]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.12.31-16.05.50:311][ 88]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.12.31-16.05.50:311][ 88]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.12.31-16.05.50:311][ 88]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.12.31-16.05.50:311][ 88]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.12.31-16.05.50:311][ 88]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.12.31-16.05.50:311][ 88]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.12.31-16.05.50:312][ 88]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.12.31-16.05.50:315][ 88]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.12.31-16.05.50:315][ 88]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.12.31-16.05.50:316][ 88]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.12.31-16.05.50:316][ 88]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.12.31-16.05.50:318][ 88]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.12.31-16.05.50:323][ 88]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.12.31-16.05.50:323][ 88]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.12.31-16.05.50:323][ 88]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.12.31-16.05.50:323][ 88]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.12.31-16.05.50:323][ 88]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.12.31-16.05.50:331][ 88]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.12.31-16.05.50:332][ 88]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.12.31-16.05.50:332][ 88]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.12.31-16.05.50:332][ 88]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.12.31-16.05.50:332][ 88]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.12.31-16.05.50:332][ 88]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.12.31-16.05.50:332][ 88]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.12.31-16.05.50:332][ 88]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.12.31-16.05.50:332][ 88]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.12.31-16.05.50:332][ 88]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.12.31-16.05.50:333][ 88]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.12.31-16.05.50:333][ 88]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.12.31-16.05.50:333][ 88]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.12.31-16.05.50:333][ 88]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.12.31-16.05.50:333][ 88]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.12.31-16.05.50:333][ 88]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.12.31-16.05.50:333][ 88]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.12.31-16.05.50:333][ 88]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.12.31-16.05.50:334][ 88]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.12.31-16.05.50:334][ 88]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.12.31-16.05.50:334][ 88]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.12.31-16.05.50:334][ 88]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.12.31-16.05.50:334][ 88]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.12.31-16.05.50:341][ 88]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.12.31-16.05.50:341][ 88]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.12.31-16.05.50:341][ 88]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.12.31-16.05.50:342][ 88]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.12.31-16.05.50:342][ 88]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.12.31-16.05.50:342][ 88]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.12.31-16.05.50:342][ 88]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.12.31-16.05.50:342][ 88]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.12.31-16.05.50:342][ 88]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.12.31-16.05.50:342][ 88]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.12.31-16.05.50:342][ 88]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.12.31-16.05.50:342][ 88]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.12.31-16.05.50:342][ 88]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.12.31-16.05.50:342][ 88]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.12.31-16.05.50:343][ 88]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.12.31-16.05.50:343][ 88]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.12.31-16.05.50:343][ 88]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.12.31-16.05.50:343][ 88]LogDerivedDataCache: Shutdown
+[2019.12.31-16.05.50:343][ 88]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.12.31-16.05.50:343][ 88]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.12.31-16.05.50:343][ 88]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.12.31-16.05.50:344][ 88]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.12.31-16.05.50:344][ 88]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.12.31-16.05.50:344][ 88]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.12.31-16.05.50:344][ 88]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.12.31-16.05.50:344][ 88]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.12.31-16.05.50:344][ 88]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.12.31-16.05.50:344][ 88]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.12.31-16.05.50:344][ 88]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.12.31-16.05.50:345][ 88]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.12.31-16.05.50:345][ 88]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.12.31-16.05.50:345][ 88]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.12.31-16.05.50:345][ 88]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.12.31-16.05.50:345][ 88]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.12.31-16.05.50:345][ 88]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.12.31-16.05.50:346][ 88]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.12.31-16.05.50:365][ 88]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.12.31-16.05.50:365][ 88]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.12.31-16.05.50:365][ 88]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.12.31-16.05.50:365][ 88]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.12.31-16.05.50:365][ 88]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.12.31-16.05.50:378][ 88]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.12.31-16.05.50:378][ 88]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.12.31-16.05.50:390][ 88]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.12.31-16.05.50:390][ 88]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.12.31-16.05.50:487][ 88]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.12.31-16.05.50:487][ 88]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.12.31-16.05.50:487][ 88]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.12.31-16.05.50:488][ 88]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.12.31-16.05.50:488][ 88]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.12.31-16.05.50:488][ 88]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.12.31-16.05.50:488][ 88]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.12.31-16.05.50:488][ 88]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.12.31-16.05.50:488][ 88]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.12.31-16.05.50:488][ 88]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.12.31-16.05.50:488][ 88]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.12.31-16.05.50:488][ 88]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.12.31-16.05.50:491][ 88]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.12.31-16.05.50:491][ 88]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.12.31-16.05.50:491][ 88]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.12.31-16.05.50:491][ 88]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.12.31-16.05.50:491][ 88]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.31-16.05.50:491][ 88]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.12.31-16.05.50:491][ 88]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.12.31-16.05.50:491][ 88]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.12.31-16.05.50:491][ 88]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.12.31-16.05.50:491][ 88]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.12.31-16.05.50:493][ 88]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.12.31-16.05.50:494][ 88]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.12.31-16.05.50:522][ 88]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.12.31-16.05.50:522][ 88]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.31-16.05.50:522][ 88]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF098E4D7-4E0C-3AB1-797B-D2A4380336A9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ace58abc4ba1031a6e2e2284392ddbf4%7C66ab0eb387d24985aab87c2368d90e3c%7C99508d62-f5fe-471d-9420-50ebfa3bb2d5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.31-16.05.50:530][ 88]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.12.31-16.05.50:537][ 88]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.12.31-16.05.50:541][ 88]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.12.31-16.05.50:543][ 88]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.12.31-16.05.50:543][ 88]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.12.31-16.05.50:545][ 88]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.12.31-16.05.50:546][ 88]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.12.31-16.05.50:546][ 88]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.12.31-16.05.50:546][ 88]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.31-16.05.50:546][ 88]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.31-16.05.50:553][ 88]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.31-16.05.50:554][ 88]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.31-16.05.50:554][ 88]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.31-16.05.50:554][ 88]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.31-16.05.50:554][ 88]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.31-16.05.50:560][ 88]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.31-16.05.50:560][ 88]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.31-16.05.50:561][ 88]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.31-16.05.50:561][ 88]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.31-16.05.50:561][ 88]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.31-16.05.50:561][ 88]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.31-16.05.50:561][ 88]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.31-16.05.50:561][ 88]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.31-16.05.50:561][ 88]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.31-16.05.50:561][ 88]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.31-16.05.50:561][ 88]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.31-16.05.50:561][ 88]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.31-16.05.50:563][ 88]LogD3D11RHI: Shutdown
+[2019.12.31-16.05.50:563][ 88]LogD3D11RHI: CleanupD3DDevice
+[2019.12.31-16.05.50:568][ 88]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.31-16.05.50:568][ 88]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.31-16.05.50:568][ 88]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.31-16.05.50:810][ 88]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.31-16.05.50:817][ 88]LogExit: Exiting.
+[2019.12.31-16.05.50:823][ 88]Log file closed, 12/31/19 16:05:50
